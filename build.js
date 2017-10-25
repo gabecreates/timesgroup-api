@@ -3,9 +3,10 @@ var Metalsmith  = require('metalsmith'),
     tojson = require('metalsmith-to-json');
 
 Metalsmith(__dirname)
+    .source('./data')
+    .destination('./site/api')
     .use( markdown() )
     .use( tojson({
-        outputPath : '',
         createIndexes : true,
         indexPaths : ['posts'],
         onlyOutputIndex : false
