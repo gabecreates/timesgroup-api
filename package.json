@@ -6,6 +6,7 @@
     "gulp-markdown-to-json": "^1.0.3"
   },
   "dependencies": {
-    "markdown-it": "^8.4.0"
+    "gulp": "^3.9.1",
+    "marked": "0.3.6"
   }
 }
