@@ -7,8 +7,8 @@ Metalsmith(__dirname)
     .use( tojson({
         outputPath : '',
         createIndexes : true,
-        indexPaths : ['data/posts'],
-        onlyOutputIndex : true
+        indexPaths : ['posts'],
+        onlyOutputIndex : false
     }))
     .build(function( err, files ) {
         if( err ) throw err;
