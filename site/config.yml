@@ -12,3 +12,39 @@ collections:
     fields:
       - {name: title, label: Title}
       - {name: body, label: Body, widget: markdown}
+  - name: project
+    label: Project
+    folder: "data/projects"
+    create: true
+    fields:
+      - {name: projectName, label: Project Name}
+      - {name: featuredImage, label: Featured Image, widget: image}
+      - {name: logoImage, label: Logo, widget: image}
+      - {name: location, label: Location}
+      - {name: city, label: City}
+      - {name: status, label: Project Status, widget: select, options: [Coming Soon, Construction, Completed]}
+      - {name: units, label: Number of Units}
+      - {name: projectType, label: Project Type, widget: select, options: [High-rise Residential, Low-rise Residential, Commercial]}
+      - {name: salesPhoneNumber, label: Sales Phone Number}
+      - {name: salesEmail, label: Sales Email}
+      - {name: websiteLink, label: Website Link}
+      - {name: architect, label: Architect}
+      - {name: interiorDesigner, label: Interior Designer}
+      - {name: landscapeArchitect, label: Landscape Architect}
+      - {name: description, label: Description, widget: text}
+      - {name: exteriorGallery, label: Exterior Images, widget: list, fields: [{name: image, label: Image, widget: image}, {name: title, label: Title}]}
+      - {name: interiorGallery, label: Interior Images, widget: list, fields: [{name: image, label: Image, widget: image}, {name: title, label: Title}]}
+  - name: pages
+    label: Pages
+    files:
+      - file: "data/pages/home.md"
+        name: homePage
+        label: Home Page
+        fields:
+          - {name: tagline, label: Tagline}
+          - name: featuredProjects
+            label: Featured Projects
+            widget: relation
+            collection: posts
+            searchFields: [title]
+            valueField: title
