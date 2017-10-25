@@ -8,7 +8,7 @@ marked.setOptions({
 });
 
 gulp.task('markdown', () => {
-  gulp.src('./posts/**/*.md')
+  gulp.src('./site/posts/**/*.md')
     .pipe(markdownToJSON(marked))
     .pipe(gulp.dest('./site/api'))
 });
