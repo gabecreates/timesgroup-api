@@ -1,4 +1,4 @@
 ---
-title: Some post
+title: Some posts
 ---
-yay
+this post needs some good content!
