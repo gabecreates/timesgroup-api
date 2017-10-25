@@ -1,4 +1,0 @@
----
-title: Some post
----
-yay
