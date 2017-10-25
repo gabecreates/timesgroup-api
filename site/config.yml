@@ -38,7 +38,6 @@ collections:
       - {name: projectType, label: Project Type, widget: select, options: [Office, Mixed Use]}
       - {name: contactEmail, label: Contact Email}
       - {name: contactPhoneNumber, label: Contact Phone Number}
-      - {name: contactEmail, label: Contact Email}
   - name: salesCentre
     label: Sales Centre
     folder: "data/sales-centres"
@@ -49,6 +48,7 @@ collections:
       - {name: city, label: City}
       - {name: hours, label: Hours, widget: list, fields: [{name: hoursItem}]}
       - {name: contactPhoneNumber, label: Contact Phone Number}
+      - {name: contactEmail, label: Contact Email}
   - name: pages
     label: Pages
     files:
