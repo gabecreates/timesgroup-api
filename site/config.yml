@@ -12,9 +12,9 @@ collections:
     fields:
       - {name: title, label: Title}
       - {name: body, label: Body, widget: markdown}
-  - name: project
-    label: Project
-    folder: "data/projects"
+  - name: residentialProject
+    label: Residential Project
+    folder: "data/residential-projects"
     create: true
     fields:
       - {name: projectName, label: Project Name}
@@ -25,8 +25,8 @@ collections:
       - {name: status, label: Project Status, widget: select, options: [Coming Soon, Construction, Completed]}
       - {name: units, label: Number of Units}
       - {name: projectType, label: Project Type, widget: select, options: [High-rise Residential, Low-rise Residential, Commercial]}
-      - {name: salesPhoneNumber, label: Sales Phone Number}
-      - {name: salesEmail, label: Sales Email}
+      - {name: contactPhoneNumber, label: Contact Phone Number}
+      - {name: contactEmail, label: Contact Email}
       - {name: websiteLink, label: Website Link}
       - {name: architect, label: Architect}
       - {name: interiorDesigner, label: Interior Designer}
@@ -34,6 +34,26 @@ collections:
       - {name: description, label: Description, widget: text}
       - {name: exteriorGallery, label: Exterior Images, widget: list, fields: [{name: image, label: Image, widget: image}, {name: title, label: Title}]}
       - {name: interiorGallery, label: Interior Images, widget: list, fields: [{name: image, label: Image, widget: image}, {name: title, label: Title}]}
+  - name: commercialProject
+    label: Commercial Project
+    folder: "data/commercial-projects"
+    create: true
+    fields:
+      - {name: projectName, label: Project Name}
+      - {name: location, label: Location}
+      - {name: city, label: City}
+      - {name: projectType, label: Project Type, widget: select, options: [Office, Mixed Use]}
+      - {name: contactEmail, label: Contact Email}
+      - {name: contactPhoneNumber, label: Contact Phone Number}
+  - name: salesCentre
+    label: Sales Centre
+    folder: "data/sales-centres"
+    create: true
+    fields:
+      - {name: title, label: Title}
+      - {name: location, label: Location}
+      - {name: city, label: City}
+      - {name: contactPhoneNumber, label: Contact Phone Number}
   - name: pages
     label: Pages
     files:
@@ -45,6 +65,48 @@ collections:
           - name: firstFeaturedProject
             label: First Featured Project
             widget: relation
-            collection: post
+            collection: residentialProject
+            searchFields: [projectName]
+            valueField: projectName
+          - name: secondFeaturedProject
+            label: Second Featured Project
+            widget: relation
+            collection: residentialProject
+            searchFields: [projectName]
+            valueField: projectName
+          - name: thirdFeaturedProject
+            label: Third Featured Project
+            widget: relation
+            collection: residentialProject
+            searchFields: [projectName]
+            valueField: projectName
+          - {name: greenTagline, label: Green Tagline}
+          - {name: greenText, label: Green Text, widget: text}
+          - name: firstGreenProject
+            label: First Green Project
+            widget: relation
+            collection: residentialProject
             searchFields: [title]
             valueField: title
+          - name: secondGreenProject
+            label: Second Green Project
+            widget: relation
+            collection: residentialProject
+            searchFields: [projectName]
+            valueField: projectName
+          - name: thirdGreenProject
+            label: Third Green Project
+            widget: relation
+            collection: residentialProject
+            searchFields: [projectName]
+            valueField: projectName
+      - file: "data/pages/about.md"
+        name: aboutPage
+        label: About Page
+        fields:
+          - {name: quote, label: Quote, widget: text}
+          - {name: quoteAuthor, label: Quote Author}
+          - {name: aboutTagline, label: About Tagline}
+          - {name: aboutText, label: About Text, widget: text}
+          - {name: futureTagline, label: Future Tagline}
+          - {name: futureText, label: Future Text}
