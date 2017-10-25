@@ -7,7 +7,7 @@ media_folder: media_folder
 collections:
   - name: post
     label: Post
-    folder: "site/posts"
+    folder: "site/data/posts"
     create: true
     fields:
       - {name: title, label: Title}

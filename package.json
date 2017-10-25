@@ -2,11 +2,9 @@
   "name": "tg-apis",
   "version": "1.0.0",
   "description": "",
-  "devDependencies": {
-    "gulp-markdown-to-json": "^1.0.3"
-  },
   "dependencies": {
-    "gulp": "^3.9.1",
-    "marked": "0.3.6"
+    "metalsmith": "^2.3.0",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-to-json": "^1.0.0"
   }
 }
