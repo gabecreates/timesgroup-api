@@ -10,5 +10,5 @@ marked.setOptions({
 gulp.task('markdown', () => {
   gulp.src('./posts/**/*.md')
     .pipe(markdownToJSON(marked))
-    .pipe(gulp.dest('./api'))
+    .pipe(gulp.dest('./site/api'))
 });
