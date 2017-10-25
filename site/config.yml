@@ -5,13 +5,6 @@ backend:
 media_folder: media_folder
 
 collections:
-  - name: post
-    label: Post
-    folder: "data/posts"
-    create: true
-    fields:
-      - {name: title, label: Title}
-      - {name: body, label: Body, widget: markdown}
   - name: residentialProject
     label: Residential Project
     folder: "data/residential-projects"
@@ -53,6 +46,7 @@ collections:
       - {name: title, label: Title}
       - {name: location, label: Location}
       - {name: city, label: City}
+      - {name: hours, label: Hours, widget: list, fields: [{name: hoursItem}]}
       - {name: contactPhoneNumber, label: Contact Phone Number}
   - name: pages
     label: Pages
