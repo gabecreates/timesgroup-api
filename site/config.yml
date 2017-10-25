@@ -42,9 +42,9 @@ collections:
         label: Home Page
         fields:
           - {name: tagline, label: Tagline}
-          - name: featuredProjects
-            label: Featured Projects
+          - name: firstFeaturedProject
+            label: First Featured Project
             widget: relation
-            collection: posts
+            collection: post
             searchFields: [title]
             valueField: title
