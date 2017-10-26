@@ -1,7 +1,7 @@
 ---
 title: Village Park Townhomes
-featuredImage: /site/assets/uploads/villagepar2-town-thumb.jpg
-logoImage: /site/assets/uploads/village-park-townhomes.jpg
+featuredImage: /assets/uploads/villagepar2-town-thumb.jpg
+logoImage: /assets/uploads/village-park-townhomes.jpg
 location: Village Parkway & Hwy 7 East
 city: Unionville
 status: Coming Soon
@@ -19,14 +19,14 @@ description: >-
   Market and less than a kilometer from the shops and restaurants of Main Street
   Unionville.
 exteriorGallery:
-  - image: /site/assets/uploads/villagepar2-town-thumb.jpg
+  - image: /assets/uploads/villagepar2-town-thumb.jpg
     title: Streetview
-  - image: /site/assets/uploads/inside-village-park-03.jpg
+  - image: /assets/uploads/inside-village-park-03.jpg
     title: Courtyard
 interiorGallery:
-  - image: /site/assets/uploads/inside-village-park-02.jpg
+  - image: /assets/uploads/inside-village-park-02.jpg
     title: Ensuite
-  - image: /site/assets/uploads/inside-village-park-04.jpg
+  - image: /assets/uploads/inside-village-park-04.jpg
     title: Kitchen
 ---
 
