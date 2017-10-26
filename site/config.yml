@@ -9,6 +9,7 @@ collections:
   - name: residentialProject
     label: Residential Project
     folder: "data/residential-projects"
+    slug: "{{slug}}"
     create: true
     fields:
       - {name: title, label: Project Name}
