@@ -36,7 +36,7 @@ collections:
       - {name: title, label: Project Name}
       - {name: location, label: Location}
       - {name: city, label: City}
-      - {name: projectType, label: Project Type, widget: select, options: [Office, Mixed Use]}
+      - {name: projectType, label: Project Type, widget: select, options: [Office, Retail, Mixed Use]}
       - {name: contactEmail, label: Contact Email}
       - {name: contactPhoneNumber, label: Contact Phone Number}
   - name: salesCentre
