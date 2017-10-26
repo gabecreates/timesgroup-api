@@ -105,4 +105,4 @@ collections:
           - {name: aboutTagline, label: About Tagline}
           - {name: aboutText, label: About Text, widget: text}
           - {name: futureTagline, label: Future Tagline}
-          - {name: futureText, label: Future Text}
+          - {name: futureText, label: Future Text, widget: text}
