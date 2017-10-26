@@ -1,0 +1,32 @@
+---
+title: Village Park Townhomes
+featuredImage: /site/assets/uploads/villagepar2-town-thumb.jpg
+logoImage: /site/assets/uploads/village-park-townhomes.jpg
+location: Village Parkway & Hwy 7 East
+city: Unionville
+status: Coming Soon
+units: '110'
+projectType: High-rise Residential
+contactPhoneNumber: 905.479.5557
+contactEmail: info@uptownmarkham.ca
+websiteLink: 'http://villagepark.ca/'
+architect: Kirkor Architects + Planners
+interiorDesigner: Renato Iamonaco
+landscapeArchitect: Schollen & Company Inc.
+description: >-
+  This master-planned community will soon be unveiled on the north side of
+  Highway 7. Imagine living off Village Parkway and directly across from Uptown
+  Market and less than a kilometer from the shops and restaurants of Main Street
+  Unionville.
+exteriorGallery:
+  - image: /site/assets/uploads/villagepar2-town-thumb.jpg
+    title: Streetview
+  - image: /site/assets/uploads/inside-village-park-03.jpg
+    title: Courtyard
+interiorGallery:
+  - image: /site/assets/uploads/inside-village-park-02.jpg
+    title: Ensuite
+  - image: /site/assets/uploads/inside-village-park-04.jpg
+    title: Kitchen
+---
+
