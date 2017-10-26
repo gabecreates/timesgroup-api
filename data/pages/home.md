@@ -1,7 +1,15 @@
 ---
 tagline: Quality real estate through passion and responsibility
-firstFeaturedProject: One
-secondFeaturedProject: Two
-thirdFeaturedProject: Third
+firstFeaturedProject: Village Park Townhomes
+secondFeaturedProject: Village Park Townhomes
+thirdFeaturedProject: Village Park Townhomes
+greenTagline: We build green
+greenText: >-
+  Building green is an integral part of what quality means in the 21st Century.
+  Our condominiums are built with sustainability in mind as we try to build for
+  a better future.
+firstGreenProject: Village Park Townhomes
+secondGreenProject: Village Park Townhomes
+thirdGreenProject: Village Park Townhomes
 ---
 
