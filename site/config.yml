@@ -3,6 +3,7 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 
 media_folder: "site/assets/uploads"
+public_folder: "/assets/uploads"
 
 collections:
   - name: residentialProject
