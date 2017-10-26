@@ -20,13 +20,13 @@ collections:
       - {name: projectType, label: Project Type, widget: select, options: [High-rise Residential, Low-rise Residential, Commercial]}
       - {name: contactPhoneNumber, label: Contact Phone Number}
       - {name: contactEmail, label: Contact Email}
-      - {name: websiteLink, label: Website Link}
+      - {name: websiteLink, label: Website Link, required: false}
       - {name: architect, label: Architect}
       - {name: interiorDesigner, label: Interior Designer}
       - {name: landscapeArchitect, label: Landscape Architect}
       - {name: description, label: Description, widget: text}
-      - {name: exteriorGallery, label: Exterior Images, widget: list, fields: [{name: image, label: Image, widget: image}, {name: title, label: Title}]}
-      - {name: interiorGallery, label: Interior Images, widget: list, fields: [{name: image, label: Image, widget: image}, {name: title, label: Title}]}
+      - {name: exteriorGallery, label: Exterior Images, required: false, widget: list, fields: [{name: image, label: Image, widget: image}, {name: title, label: Title}]}
+      - {name: interiorGallery, label: Interior Images, required: false, widget: list, fields: [{name: image, label: Image, widget: image}, {name: title, label: Title}]}
   - name: commercialProject
     label: Commercial Project
     folder: "data/commercial-projects"
