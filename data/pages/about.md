@@ -13,6 +13,7 @@ aboutText: >-
   value, Times Group is actively engaged in the development of highrise
   condominium projects, distinctive homes and condominium townhouses in the GTA.
 
+  <br><br>
 
   Every Times Group project is distinguished by an integrated planning process,
   a meticulous attention to detail and a commitment to enduring value. Winner of
