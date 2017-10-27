@@ -1,7 +1,26 @@
 <head>
   <link href="https://unpkg.com/netlify-cms/dist/cms.css" rel="stylesheet"/>
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <style>
+    .logo-container {
+      align-items: center;
+      justify-content: center;
+      display: flex;
+      height: 100vh;
+      position: absolute;
+      top: 0;
+      width: 100%;
+    }
+
+    #TG-logo {
+      position: relative;
+      top: -100px;
+    }
+  </style>
 </head>
 <body>
+  <div class="logo-container">
+    <img id="TG-logo" src="assets/TG-logo.png" alt="TimesGroup" />
+  </div>
   <script src="https://unpkg.com/netlify-cms/dist/cms.js"></script>
 </body>
