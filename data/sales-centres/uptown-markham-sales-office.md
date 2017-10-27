@@ -1,5 +1,5 @@
 ---
-title: Uptown Markham Sales Office
+title: Uptown Markham<br>Sales Office
 location: 60 South Town Centre Blvd
 city: Markham
 hours:
