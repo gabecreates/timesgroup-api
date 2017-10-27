@@ -1,5 +1,5 @@
 ---
-title: Valleymede Towers & Pavilia Park Sales Centre
+title: Valleymede Towers &<br>Pavilia Park Sales Centre
 location: 381 Hwy 7 East
 city: Thornhill
 hours:
