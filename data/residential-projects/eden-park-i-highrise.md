@@ -5,6 +5,7 @@ city: Thornhill
 status: Completed
 completedDate: '2011'
 units: '430'
+projectType: High-rise Residential
 architect: Kirkor Architects + Planners
 interiorDesigner: Renato Iamonaco
 landscapeArchitect: Schollen & Company Inc.
