@@ -2,6 +2,7 @@
 title: Bayview Mansion Townhomes
 location: 1 and 2 Clairtrell Rd.
 city: North York
+status: Completed
 completedDate: '2003'
 units: '4'
 projectType: Low-rise Residential
