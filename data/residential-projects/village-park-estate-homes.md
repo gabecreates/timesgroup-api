@@ -17,7 +17,7 @@ description: >-
   These spectacular singles offer exceptional value and are bound to sell
   quickly.
 latLng:
-  - lat: '43.872687'
-    lng: '-79.398398'
+  - lat: '43.860824'
+    lng: '-79.323648'
 ---
 
