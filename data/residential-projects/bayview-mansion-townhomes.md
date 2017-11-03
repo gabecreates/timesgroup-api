@@ -4,6 +4,7 @@ location: 1 and 2 Clairtrell Rd.
 city: North York
 completedDate: '2003'
 units: '4'
+projectType: Low-rise Residential
 architect: Burka Architects Inc.
 interiorDesigner: II BY IV Design Associates
 landscapeArchitect: Schollen & Company Inc.
