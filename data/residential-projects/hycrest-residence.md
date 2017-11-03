@@ -2,6 +2,7 @@
 title: Hycrest Residence
 location: North York
 city: North York
+status: Completed
 completedDate: '1996'
 units: '71'
 architect: Turner Fleischer Architects Inc.
