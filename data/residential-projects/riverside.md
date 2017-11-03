@@ -3,6 +3,7 @@ title: Riverside
 location: Hwy 7 & Birchmount
 city: Markham
 status: Completed
+projectType: High-rise Residential
 contactPhoneNumber: 905.479.5557
 contactEmail: info@uptownmarkham.com
 websiteLink: 'http://uptownmarkham.com/Riverside/'
