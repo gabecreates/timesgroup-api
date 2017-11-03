@@ -5,6 +5,7 @@ city: Thornhill
 status: Completed
 completedDate: '1999'
 units: '128'
+projectType: High-rise Residential
 architect: Turner Fleischer Architects Inc.
 interiorDesigner: Hefele Makowka Design Associates Inc.
 landscapeArchitect: MMM
