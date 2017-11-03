@@ -29,6 +29,7 @@ collections:
       - {name: description, label: Description, widget: text, required: false}
       - {name: exteriorGallery, label: Exterior Images, required: false, widget: list, fields: [{name: image, label: Image, widget: image}, {name: title, label: Title}]}
       - {name: interiorGallery, label: Interior Images, required: false, widget: list, fields: [{name: image, label: Image, widget: image}, {name: title, label: Title}]}
+      - {name: latLng, label: Latitude Longitude, required: false, widget: list, fields: [{name: lat, label: Latitude, widget: number}, {name: lng, label: Longitude, widget: number}]}
   - name: commercialProject
     label: Commercial Project
     folder: "data/commercial-projects"
