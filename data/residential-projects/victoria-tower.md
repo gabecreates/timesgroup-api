@@ -5,6 +5,7 @@ city: Thornhill
 status: Completed
 completedDate: '2005'
 units: '126'
+projectType: High-rise Residential
 architect: Kirkor Architects + Planners
 interiorDesigner: Renato Iamonaco
 landscapeArchitect: PD3
