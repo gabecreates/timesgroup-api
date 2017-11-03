@@ -5,6 +5,7 @@ city: Thornhill
 status: Completed
 completedDate: '2013'
 units: '416'
+projectType: Low-rise Residential
 contactPhoneNumber: 905-882-8078
 contactEmail: admin@edenparktowers.com
 architect: Kirkor Architects + Planners
