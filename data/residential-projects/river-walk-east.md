@@ -5,6 +5,7 @@ city: Markham
 status: Completed
 completedDate: '2015'
 units: '505'
+projectType: High-rise Residential
 contactPhoneNumber: 905-479-5557
 contactEmail: info@uptownmarkham.com
 architect: Kirkor Architects + Planners
