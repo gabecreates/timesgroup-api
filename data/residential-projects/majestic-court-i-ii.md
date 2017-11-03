@@ -5,6 +5,7 @@ city: Markham
 status: Completed
 completedDate: '2009'
 units: '532'
+projectType: High-rise Residential
 architect: Kirkor Architects + Planners
 interiorDesigner: Renato Iamonaco
 landscapeArchitect: Schollen & Company Inc.
