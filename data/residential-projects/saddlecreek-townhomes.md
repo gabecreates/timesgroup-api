@@ -5,6 +5,7 @@ city: Thornhill
 status: Completed
 completedDate: '1999'
 units: '20'
+projectType: Low-rise Residential
 architect: Turner Fleischer Architects Inc.
 interiorDesigner: Hefele Makowka Design Associates Inc.
 landscapeArchitect: MMM
