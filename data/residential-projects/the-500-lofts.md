@@ -4,6 +4,7 @@ location: 500 Sherbourne Street
 status: Completed
 completedDate: '2010'
 units: '22'
+projectType: High-rise Residential
 architect: Northgrave Architect Inc
 interiorDesigner: Renato Iamonaco
 landscapeArchitect: Schollen & Company Inc.
