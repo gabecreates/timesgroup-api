@@ -28,5 +28,8 @@ interiorGallery:
     title: Ensuite
   - image: /assets/uploads/inside-village-park-04.jpg
     title: Kitchen
+latLng:
+  - lat: '41'
+    lng: '-79.324062'
 ---
 
