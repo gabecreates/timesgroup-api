@@ -23,5 +23,8 @@ description: >-
   of Toronto. Amenities include indoor swimming pool, fully equipped gym
   facility, a library, a movie theatre room, a games room equipped with pool
   table and a beautifully-appointed party room.
+latLng:
+  - lat: '43.837461'
+    lng: '-79.391224'
 ---
 
