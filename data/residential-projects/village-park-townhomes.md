@@ -6,7 +6,7 @@ location: Village Parkway & Hwy 7 East
 city: Unionville
 status: Construction
 units: '110'
-projectType: High-rise Residential
+projectType: Low-rise Residential
 contactPhoneNumber: 905.479.5557
 contactEmail: info@uptownmarkham.ca
 websiteLink: 'http://villagepark.ca/'
