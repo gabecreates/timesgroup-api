@@ -5,6 +5,7 @@ city: Thornhill
 status: Completed
 completedDate: '2011'
 units: '118'
+projectType: High-rise Residential
 architect: Kirkor Architects + Planners
 interiorDesigner: Hefele Makowka Design Associates Inc.
 landscapeArchitect: PD3
