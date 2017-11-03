@@ -22,5 +22,8 @@ description: >-
   outstanding selection of suite designs – all energy-efficient to LEED® Gold
   standards. All this in the finest and most prestigious location north of
   Toronto.
+latLng:
+  - lat: '43.856466'
+    lng: '-79.325945'
 ---
 
