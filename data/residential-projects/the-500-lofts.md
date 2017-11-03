@@ -1,6 +1,7 @@
 ---
 title: The 500 Lofts
 location: 500 Sherbourne Street
+city: Toronto
 status: Completed
 completedDate: '2010'
 units: '22'
