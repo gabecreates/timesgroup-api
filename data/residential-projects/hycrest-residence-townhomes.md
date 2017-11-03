@@ -5,6 +5,7 @@ city: North York
 status: Completed
 completedDate: '1996'
 units: '6'
+projectType: Low-rise Residential
 architect: Turner Fleischer Architects Inc.
 description: >-
   Hycrest Residence is a wonderfully-located ten-storey building with 6
