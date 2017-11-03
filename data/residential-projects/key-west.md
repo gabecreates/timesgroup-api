@@ -5,6 +5,7 @@ city: Etobicoke
 status: Construction
 completedDate: ''
 units: '421'
+projectType: High-rise Residential
 contactPhoneNumber: 416-960-1820
 contactEmail: info@keywesttorontocondo.com
 architect: Burka Architects Inc.
