@@ -29,7 +29,7 @@ interiorGallery:
   - image: /assets/uploads/inside-village-park-04.jpg
     title: Kitchen
 latLng:
-  - lat: '41'
+  - lat: '43.859066'
     lng: '-79.324062'
 ---
 
