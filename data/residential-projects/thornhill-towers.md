@@ -1,0 +1,24 @@
+---
+title: Thornhill Towers
+location: 48 Suncrest Blvd.
+city: Thornhill
+status: Completed
+completedDate: '2003'
+units: '406'
+projectType: High-rise Residential
+architect: Kirkor Architects + Planners
+interiorDesigner: II BY IV Design Associates
+landscapeArchitect: PD3
+description: >-
+  The two Thornhill Towers offer a contemporary lifestyle inspired by
+  cosmopolitan design and active, vibrant living. An impressive resort-style
+  12,000 square foot clubhouse (featuring spa, exercise and recreational
+  facility) links the two granite and glass buildings. Thornhill Towers are part
+  of the charming and peaceful Galleria Community. With exclusive amenities,
+  restaurants and shopping plazas a short walk away, life here is an endless
+  array of exciting possibilities.
+latLng:
+  - lat: '43.841015'
+    lng: '-79.393198'
+---
+
