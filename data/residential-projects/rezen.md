@@ -5,6 +5,7 @@ city: Toronto
 status: Completed
 completedDate: '2008'
 units: '147'
+projectType: High-rise Residential
 architect: Robert Chang Architects Inc.
 interiorDesigner: Renato Iamonaco
 landscapeArchitect: Schollen & Company Inc.
