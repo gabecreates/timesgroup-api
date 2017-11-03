@@ -12,6 +12,7 @@ description: >-
   townhomes are large and spacious, befitting its Bayview Village location, at
   the centre of everything.
 latLng:
-  - {}
+  - lat: '43.766290'
+    lng: '-79.391996'
 ---
 
