@@ -1,5 +1,6 @@
 ---
 title: Hycrest Residence
+featuredImage: /assets/uploads/hycrest-hero.jpg
 location: North York
 city: North York
 status: Completed
@@ -14,6 +15,11 @@ description: >-
   maintained and appointed. Amenities include a fitness centre, sauna, a
   recreation room, and 24-hour security, befitting its Bayview Village location,
   at the centre of everything.
+exteriorGallery:
+  - image: /assets/uploads/hycrest-ext1.jpg
+    title: Hycrest Residence Exterior
+  - image: /assets/uploads/hycrest-ext2.jpg
+    title: Hycrest Residence Exterior
 latLng:
   - lat: '43.766058'
     lng: '-79.391796'
