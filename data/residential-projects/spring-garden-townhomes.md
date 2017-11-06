@@ -1,5 +1,7 @@
 ---
 title: Spring Garden Townhomes
+featuredImage: /assets/uploads/spring_garden-hero.jpg
+logoImage: /assets/uploads/spring_garden-logo.png
 location: 20-56 Clairtrell Road
 city: North York
 status: Completed
@@ -18,6 +20,12 @@ description: >-
   cosmopolitan charm of the Yonge Street cafés and world-class restaurants. With
   such a diverse range of amenities, Spring Garden Townhomes is a highly
   sought-after community in North York.
+exteriorGallery:
+  - image: /assets/uploads/spring_garden-ext1.jpg
+  - image: /assets/uploads/spring_garden-ext2.jpg
+interiorGallery:
+  - image: /assets/uploads/spring_garden-int1.jpg
+  - image: /assets/uploads/spring_garden-int2.jpg
 latLng:
   - lat: '43.768260'
     lng: '-79.391297'
