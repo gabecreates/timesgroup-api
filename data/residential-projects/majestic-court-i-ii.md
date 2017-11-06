@@ -1,5 +1,7 @@
 ---
 title: Majestic Court I & II
+featuredImage: /assets/uploads/majestic_court-hero.jpg
+logoImage: /assets/uploads/majestic_court-logo.jpg
 location: 60 South Town Centre/ 50 Clegg Road
 city: Markham
 status: Completed
@@ -20,6 +22,17 @@ description: >-
   cutting-edge in energy conservation and efficiency. Specially designed
   amenities are provided in the suites to reduce waste and increase water
   efficiency.
+exteriorGallery:
+  - image: /assets/uploads/majestic_court-ext1.jpg
+  - image: /assets/uploads/majestic_court-ext2.jpg
+  - image: /assets/uploads/majestic_court-ext3.jpg
+  - image: /assets/uploads/majestic_court-ext4.jpg
+interiorGallery:
+  - image: /assets/uploads/majestic_court-int1.jpg
+  - image: /assets/uploads/majestic_court-int2.jpg
+  - image: /assets/uploads/majestic_court-int3.jpg
+  - image: /assets/uploads/majestic_court-int4.jpg
+  - image: /assets/uploads/majestic_court-int5.jpg
 latLng:
   - lat: '43.852656'
     lng: '-79.338496'
