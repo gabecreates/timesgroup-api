@@ -1,5 +1,6 @@
 ---
 title: Saddlecreek
+featuredImage: /assets/uploads/saddlecreek-hero.jpg
 location: 135 Pond Drive
 city: Thornhill
 status: Completed
@@ -19,6 +20,11 @@ description: >-
   at their doorstep, residents enjoy a wide choice of restaurants, shops, banks,
   and other services, and a 30-minute drive whisks them to the heart of downtown
   Toronto.
+exteriorGallery:
+  - image: /assets/uploads/saddlecreek-ext1.jpg
+    title: Saddlecreek Exterior
+  - image: /assets/uploads/saddlecreek-ext2.jpg
+    title: Saddlecreek Exterior
 latLng:
   - lat: '43.842149'
     lng: '-78.38885'
