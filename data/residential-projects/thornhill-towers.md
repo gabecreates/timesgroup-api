@@ -1,5 +1,6 @@
 ---
 title: Thornhill Towers
+featuredImage: /assets/uploads/thornhill_towers-hero.jpg
 location: 48 Suncrest Blvd.
 city: Thornhill
 status: Completed
