@@ -1,5 +1,7 @@
 ---
 title: The 500 Lofts
+featuredImage: /assets/uploads/500_sher-hero.jpg
+logoImage: /assets/uploads/500_sher-logo.jpg
 location: 500 Sherbourne Street
 city: Toronto
 status: Completed
@@ -17,6 +19,17 @@ description: >-
   of Toronto, Ryerson and the chic shopping district of Yorkville. Minutes from
   the financial and entertainment districts, The 500 offers the best of the city
   at your doorstep.
+exteriorGallery:
+  - image: /assets/uploads/500_sher-ext2.jpg
+  - image: /assets/uploads/500_sher-ext3.jpg
+  - {}
+interiorGallery:
+  - image: /assets/uploads/500_sher-int1.jpg
+  - image: /assets/uploads/500_sher-int2.jpg
+  - image: /assets/uploads/500_sher-int3.jpg
+  - image: /assets/uploads/500_sher-int4.jpg
+  - image: /assets/uploads/500_sher-int5.jpg
+  - image: /assets/uploads/500_sher-int6.jpg
 latLng:
   - lat: '43.667972'
     lng: '-79.375406'
