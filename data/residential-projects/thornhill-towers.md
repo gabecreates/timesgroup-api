@@ -19,6 +19,15 @@ description: >-
   of the charming and peaceful Galleria Community. With exclusive amenities,
   restaurants and shopping plazas a short walk away, life here is an endless
   array of exciting possibilities.
+exteriorGallery:
+  - image: /assets/uploads/thornhill_towers-ext1.jpg
+    title: Thornhill Towers Exterior
+  - image: /assets/uploads/thornhill_towers-ext2.jpg
+    title: Thornhill Towers Exterior
+  - image: /assets/uploads/thornhill_towers-ext3.jpg
+    title: Thornhill Towers Exterior
+  - image: /assets/uploads/thornhill_towers-ext4.jpg
+    title: Thornhill Towers Exterior
 latLng:
   - lat: '43.841015'
     lng: '-79.393198'
