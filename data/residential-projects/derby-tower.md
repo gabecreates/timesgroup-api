@@ -1,5 +1,6 @@
 ---
 title: Derby Tower
+featuredImage: /assets/uploads/derby_tower-hero.jpg
 location: 130 Pond Drive
 city: Thornhill
 status: Completed
