@@ -1,5 +1,6 @@
 ---
 title: Parkview Townhomes
+featuredImage: /assets/uploads/parkview_towns-hero.jpg
 location: 39 Galleria Parkway
 city: Thornhill
 status: Completed
@@ -16,6 +17,11 @@ description: >-
   nearly 56 units impeccably designed and incredibly detailed new residences.
   Come home to an outstandingly planned community with a wide selection of suite
   designs and the convenience of myriad amenities just steps away.
+exteriorGallery:
+  - image: /assets/uploads/parkview_towns-ext1.jpg
+  - image: /assets/uploads/parkview_towns-ext2.jpg
+  - image: /assets/uploads/parkview_towns-ext3.jpg
+  - image: /assets/uploads/parkview_towns-ext4.jpg
 latLng:
   - lat: '43.839418'
     lng: '-79.393336'
