@@ -1,5 +1,5 @@
 ---
-title: Times Group Head Office
+title: Times Group Sales Centre
 location: '3985 Hwy 7 East, Suite 202'
 city: Markham
 hours:
