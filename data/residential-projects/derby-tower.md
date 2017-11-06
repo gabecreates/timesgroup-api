@@ -20,6 +20,13 @@ description: >-
   marble that define the lobby’s seating areas, the meticulous attention to
   detail makes Derby Tower a rare find. Derby Tower won the Best Building Award
   from the Town of Markham.
+exteriorGallery:
+  - image: /assets/uploads/derby_tower-ext1.jpg
+    title: Derby Tower Exterior
+  - image: /assets/uploads/derby_tower-ext2.jpg
+    title: Derby Tower Exterior
+  - image: /assets/uploads/derby_tower-ext3.jpg
+    title: Derby Tower Exterior
 latLng:
   - lat: '43.841865'
     lng: '-79.389333'
