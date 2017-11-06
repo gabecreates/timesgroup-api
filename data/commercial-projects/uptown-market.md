@@ -2,7 +2,7 @@
 title: Uptown Market
 location: 3985-3997 Highway 7 East
 city: Markham
-projectType: Office
+projectType: Office & Retail
 contactEmail: commercial@timesgroupcorp.com
 contactPhoneNumber: 905.940.6286
 latLng:
