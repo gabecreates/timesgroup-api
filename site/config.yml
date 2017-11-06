@@ -20,7 +20,7 @@ collections:
       - {name: status, label: Project Status, required: false, widget: select, options: [Coming Soon, Construction, Completed]}
       - {name: completedDate, label: Project Completed Date (if status is completed), required: false}
       - {name: units, label: Number of Units, required: false}
-      - {name: projectType, label: Project Type, required: false, widget: select, options: [High-rise Residential, Low-rise Residential, Commercial]}
+      - {name: projectType, label: Project Type, widget: select, options: [High-rise Residential, Low-rise Residential, Commercial]}
       - {name: contactPhoneNumber, label: Contact Phone , required: false}
       - {name: contactEmail, label: Contact Email, required: false}
       - {name: websiteLink, label: Website Link, required: false}
@@ -40,7 +40,7 @@ collections:
       - {name: title, label: Project Name}
       - {name: location, label: Location}
       - {name: city, label: City}
-      - {name: projectType, label: Project Type, widget: select, options: [Office, Retail, Mixed Use]}
+      - {name: projectType, label: Project Type, widget: select, options: [Office & Retail, Mixed Use]}
       - {name: contactEmail, label: Contact Email}
       - {name: contactPhoneNumber, label: Contact Phone Number}
       - {name: latLng, label: Latitude Longitude, required: false, widget: list, fields: [{name: lat, label: Latitude, widget: number}, {name: lng, label: Longitude, widget: number}]}
