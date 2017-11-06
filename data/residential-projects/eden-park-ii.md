@@ -27,5 +27,6 @@ description: >-
 latLng:
   - lat: '43.837461'
     lng: '-79.391224'
+leedAwardImage: /assets/uploads/leed_gold_2015.png
 ---
 
