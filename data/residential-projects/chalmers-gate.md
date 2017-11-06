@@ -1,5 +1,6 @@
 ---
 title: Chalmers Gate
+featuredImage: /assets/uploads/chalmers_gate-hero.jpg
 location: 9 Chalmers Road
 city: Richmond Hill
 status: Completed
@@ -13,6 +14,11 @@ description: >-
   transportation is quick and efficient. Straddling between two plazas, Chalmers
   Gate also provides the convenience of a wide range of services and shops at
   walking distance.
+exteriorGallery:
+  - image: /assets/uploads/chalmers_gate-ext1.jpg
+    title: Chalmers Gate Exterior
+  - image: /assets/uploads/chalmers_gate-ext2.jpg
+    title: Chalmers Gate Exterior
 latLng:
   - lat: '43.842026'
     lng: '-79.398277'
