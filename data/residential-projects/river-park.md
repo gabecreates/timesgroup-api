@@ -27,5 +27,6 @@ description: >-
 latLng:
   - lat: '43.857396'
     lng: '-79.324994'
+leedAwardImage: /assets/uploads/leed_plat_logo_small.png
 ---
 

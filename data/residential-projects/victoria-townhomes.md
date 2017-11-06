@@ -1,5 +1,6 @@
 ---
 title: "Victoria Townhomes\L"
+featuredImage: /assets/uploads/victoria_towns-hero.jpg
 location: 88 Times Avenue
 city: Thornhill
 status: Completed
@@ -15,6 +16,9 @@ description: >-
   7, Victoria townhomes offers sophisticated world-class city style while
   retaining the feel of an established neighbourhood. The Victoria townhomes
   project includes 10 beautiful and spacious 3-Bedroom townhomes with den.
+exteriorGallery:
+  - image: /assets/uploads/victoria_towns-ext1.jpg
+  - image: /assets/uploads/victoria_towns-ext2.jpg
 latLng:
   - lat: '43.841656'
     lng: '-79.392119'
