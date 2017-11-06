@@ -1,5 +1,7 @@
 ---
 title: REZEN
+featuredImage: /assets/uploads/rezen-hero.jpg
+logoImage: /assets/uploads/rezen-logo.jpg
 location: 205 Frederick Street
 city: Toronto
 status: Completed
@@ -16,7 +18,16 @@ description: >-
   and brick, REZEN charms you with clean, uncluttered lines and a majestic
   presence. REZEN has 144 exquisitely designed suites including live-work and
   retail units on the ground floor.
-interiorGallery: []
+exteriorGallery:
+  - image: /assets/uploads/rezen-ext1.jpg
+  - image: /assets/uploads/rezen-ext2.jpg
+  - image: /assets/uploads/rezen-ext3.jpg
+interiorGallery:
+  - image: /assets/uploads/rezen-int1.jpg
+  - image: /assets/uploads/rezen-int2.jpg
+  - image: /assets/uploads/rezen-int3.jpg
+  - image: /assets/uploads/rezen-int4.jpg
+  - image: /assets/uploads/rezen-int5.jpg
 latLng:
   - lat: '43.651721'
     lng: '-79.369415'
