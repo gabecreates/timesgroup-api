@@ -1,8 +1,8 @@
 ---
 tagline: Quality real estate through passion and responsibility
-firstFeaturedProject: Village Park Townhomes
-secondFeaturedProject: Village Park Townhomes
-thirdFeaturedProject: Village Park Townhomes
+firstFeaturedProject: River Walk East
+secondFeaturedProject: Riverside
+thirdFeaturedProject: River Park
 greenTagline: We build green
 greenText: >-
   Building green is an integral part of what quality means in the 21st Century.
