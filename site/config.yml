@@ -55,7 +55,7 @@ collections:
       - {name: title, label: Title}
       - {name: location, label: Location}
       - {name: city, label: City}
-      - {name: hours, label: Hours, widget: list, fields: [{name: hoursItem}]}
+      - {name: hours, label: Hours, required: false, widget: list, fields: [{name: hoursItem}]}
       - {name: contactPhoneNumber, label: Contact Phone Number}
       - {name: contactEmail, label: Contact Email}
   - name: pages
