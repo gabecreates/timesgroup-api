@@ -11,8 +11,9 @@ collections:
     folder: "data/residential-projects"
     slug: "{{slug}}"
     create: true
-    fields:
+    fields:    
       - {name: title, label: Project Name}
+      - {name: enabled, label: Show Project, widget: select, options: [Yes, No]}
       - {name: featuredImage, label: Featured Image, widget: image, required: false}
       - {name: logoImage, label: Logo, widget: image, required: false}
       - {name: location, label: Location, required: false}
@@ -24,6 +25,7 @@ collections:
       - {name: contactPhoneNumber, label: Contact Phone , required: false}
       - {name: contactEmail, label: Contact Email, required: false}
       - {name: websiteLink, label: Website Link, required: false}
+      - {name: registrationLink, label: Registration Link, required: false}
       - {name: architect, label: Architect, required: false}
       - {name: interiorDesigner, label: Interior Designer, required: false}
       - {name: landscapeArchitect, label: Landscape Architect, required: false}
