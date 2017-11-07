@@ -1,5 +1,7 @@
 ---
 title: Eden Park II
+featuredImage: /assets/uploads/eden_park_ii-hero.jpg
+logoImage: /assets/uploads/eden_park_ii-logo.png
 location: 277 South Park Road
 city: Thornhill
 status: Completed
@@ -24,6 +26,9 @@ description: >-
   of Toronto. Amenities include indoor swimming pool, fully equipped gym
   facility, a library, a movie theatre room, a games room equipped with pool
   table and a beautifully-appointed party room.
+exteriorGallery:
+  - image: /assets/uploads/eden_park_ii-ext1.JPG
+  - image: /assets/uploads/eden_park_ii-ext2.JPG
 latLng:
   - lat: '43.837461'
     lng: '-79.391224'
