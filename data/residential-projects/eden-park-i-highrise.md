@@ -36,6 +36,9 @@ interiorGallery:
   - image: /assets/uploads/eden_park_i-int4.jpg
   - image: /assets/uploads/eden_park_i-int5.jpg
   - image: /assets/uploads/eden_park_i-int6.jpg
+  - image: /assets/uploads/eden_park_i-int7.jpg
+  - image: /assets/uploads/eden_park_i-int8.jpg
+  - image: /assets/uploads/eden_park_i-int9.jpg
 latLng:
   - lat: '43.838622'
     lng: '-79.391429'
