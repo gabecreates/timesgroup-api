@@ -1,5 +1,6 @@
 ---
 title: Thornhill Towers
+enabled: 'Yes'
 featuredImage: /assets/uploads/thornhill_towers-hero.jpg
 logoImage: /assets/uploads/thornhill_towers-logo.png
 location: 48 Suncrest Blvd.
