@@ -1,6 +1,6 @@
 ---
 title: Eden Park II
-featuredImage: /assets/uploads/eden_park_ii-hero.jpg
+featuredImage: /assets/uploads/eden_park_ii_towns-hero.jpg
 logoImage: /assets/uploads/eden_park_ii-logo.png
 location: 277 South Park Road
 city: Thornhill
