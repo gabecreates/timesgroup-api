@@ -1,5 +1,6 @@
 ---
 title: Hycrest Residence Townhomes
+enabled: 'Yes'
 featuredImage: /assets/uploads/hycrest_towns-hero.jpg
 location: 1 Hycrest Avenue
 city: North York
