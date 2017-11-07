@@ -1,5 +1,6 @@
 ---
 title: "Saddlecreek Townhomes\L"
+enabled: 'Yes'
 featuredImage: /assets/uploads/saddlecreek_town-hero.jpg
 location: 135 Pond Drive
 city: Thornhill
