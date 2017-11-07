@@ -1,6 +1,6 @@
 ---
 title: Times Group Sales Centre
-location: '3985 Hwy 7 East, Suite 202'
+location: '3985 Hwy 7 East, Suite 105'
 city: Markham
 hours:
   - hoursItem: 'Mon - Thu: 12 - 7 pm'
