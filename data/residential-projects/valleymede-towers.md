@@ -1,6 +1,6 @@
 ---
 title: Valleymede Towers
-enabled: 'No'
+enabled: 'Yes'
 location: Hwy 7 & Valleymede Dr.
 city: Richmond Hill
 status: Construction
