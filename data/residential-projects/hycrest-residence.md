@@ -1,5 +1,6 @@
 ---
 title: Hycrest Residence
+enabled: 'Yes'
 featuredImage: /assets/uploads/hycrest-hero.jpg
 location: North York
 city: North York
