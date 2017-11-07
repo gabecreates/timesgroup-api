@@ -22,6 +22,9 @@ description: >-
   swimming pool, a movie theatre room, a games room, ping pong table,
   fully-equipped gym facility, a library, and a beautifully-appointed party
   room.
+exteriorGallery:
+  - image: /assets/uploads/eden_park_i-ext1.jpg
+  - image: /assets/uploads/eden_park_i-ext2.jpg
 latLng:
   - lat: '43.838622'
     lng: '-79.391429'
