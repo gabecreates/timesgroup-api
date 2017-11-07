@@ -1,5 +1,6 @@
 ---
 title: The 500 Condos
+enabled: 'Yes'
 featuredImage: /assets/uploads/500_sher-hero.jpg
 logoImage: /assets/uploads/500_sher-logo.jpg
 location: 500 Sherbourne Street
