@@ -1,5 +1,6 @@
 ---
 title: River Walk East
+enabled: 'Yes'
 featuredImage: /assets/uploads/riverwalk-hero.jpg
 logoImage: /assets/uploads/riverwalk-logo.png
 location: 18 Uptown Drive
