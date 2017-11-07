@@ -1,5 +1,6 @@
 ---
 title: Village Park Estate Homes
+enabled: 'Yes'
 featuredImage: /assets/uploads/village_park_estate_homes-hero.jpg
 logoImage: /assets/uploads/village_park_estate_homes-logo.png
 location: 1-31 Francesco Ct and 76-88 Fitzgerald Avenue
