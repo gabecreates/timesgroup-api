@@ -1,5 +1,6 @@
 ---
 title: Parkview Towers
+enabled: 'Yes'
 featuredImage: /assets/uploads/parkview-hero.jpg
 logoImage: /assets/uploads/parkview-logo.jpg
 location: 39 Galleria Parkway
