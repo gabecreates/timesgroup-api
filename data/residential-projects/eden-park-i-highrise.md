@@ -25,6 +25,10 @@ description: >-
 exteriorGallery:
   - image: /assets/uploads/eden_park_i-ext1.jpg
   - image: /assets/uploads/eden_park_i-ext2.jpg
+  - image: /assets/uploads/eden_park_i-ext3.jpg
+  - image: /assets/uploads/eden_park_i-ext4.jpg
+  - image: /assets/uploads/eden_park_i-ext5.jpg
+  - image: /assets/uploads/eden_park_i-ext6.jpg
 latLng:
   - lat: '43.838622'
     lng: '-79.391429'
