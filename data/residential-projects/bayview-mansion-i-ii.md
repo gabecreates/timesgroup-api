@@ -1,5 +1,6 @@
 ---
 title: Bayview Mansion I & II
+enabled: 'Yes'
 featuredImage: /assets/uploads/bayview_mansions-hero.jpg
 logoImage: /assets/uploads/bayview_mansions-logo.jpg
 location: 1 and 2 Clairtrell Road
