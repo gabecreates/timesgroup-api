@@ -1,5 +1,7 @@
 ---
 title: Bayview Mansion I & II
+featuredImage: /assets/uploads/bayview_mansions-hero.jpg
+logoImage: /assets/uploads/bayview_mansions-logo.jpg
 location: 1 and 2 Clairtrell Road
 city: North York
 status: Completed
@@ -19,6 +21,9 @@ description: >-
   neighborhood. Bayview Mansions surround you in a lifestyle of quiet luxury
   with 24-hour concierge and guest suites, befitting its Bayview Village
   location, at the centre of everything.
+exteriorGallery:
+  - image: /assets/uploads/bayview_mansions-ext1.jpg
+  - image: /assets/uploads/bayview_mansions-ext2.jpg
 latLng:
   - lat: '43.766326'
     lng: '-79.390578'
