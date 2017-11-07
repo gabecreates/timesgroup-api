@@ -1,5 +1,6 @@
 ---
 title: Yonge & Davisville Condos
+enabled: 'No'
 location: Yonge & Davisville
 city: Toronto
 status: Coming Soon
