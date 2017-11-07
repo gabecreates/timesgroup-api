@@ -1,5 +1,6 @@
 ---
 title: REZEN
+enabled: 'Yes'
 featuredImage: /assets/uploads/rezen-hero.jpg
 logoImage: /assets/uploads/rezen-logo.jpg
 location: 205 Frederick Street
