@@ -1,5 +1,7 @@
 ---
 title: River Park
+featuredImage: /assets/uploads/river_park-hero.jpg
+logoImage: /assets/uploads/river_park-logo.png
 location: 8228 Birchmount Road
 city: Markham
 status: Completed
@@ -24,6 +26,23 @@ description: >-
   neighbourhood shops, services and supermarkets counting Whole Foods Market,
   Panera Breads, LCBO and major banks among the anchor tenants at Uptown Market.
   All this in the finest and most prestigious location north of Toronto.
+exteriorGallery:
+  - image: /assets/uploads/river_park-ext1.JPG
+  - image: /assets/uploads/river_park-ext2.JPG
+  - image: /assets/uploads/river_park-ext3.jpg
+  - image: /assets/uploads/river_park-ext4.jpg
+  - image: /assets/uploads/river_park-ext5.jpg
+interiorGallery:
+  - image: /assets/uploads/river_park-int1.jpg
+  - image: /assets/uploads/river_park-int2.JPG
+  - image: /assets/uploads/river_park-int3.jpg
+  - image: /assets/uploads/river_park-int4.jpg
+  - image: /assets/uploads/river_park-int5.jpg
+  - image: /assets/uploads/river_park-int6.jpg
+  - image: /assets/uploads/river_park-int7.jpg
+  - image: /assets/uploads/river_park-int8.jpg
+  - image: /assets/uploads/river_park-int9.jpg
+  - image: /assets/uploads/river_park-int10.jpg
 latLng:
   - lat: '43.857396'
     lng: '-79.324994'
