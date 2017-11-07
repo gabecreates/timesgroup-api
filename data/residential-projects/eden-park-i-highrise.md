@@ -1,5 +1,6 @@
 ---
 title: Eden Park I Highrise
+enabled: 'Yes'
 featuredImage: /assets/uploads/eden_park_i-hero.jpg
 logoImage: /assets/uploads/eden_park-logo.png
 location: 233 South Park Road
