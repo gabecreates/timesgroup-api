@@ -1,5 +1,6 @@
 ---
 title: Parkview Townhomes
+enabled: 'Yes'
 featuredImage: /assets/uploads/parkview_towns-hero.jpg
 location: 39 Galleria Parkway
 city: Thornhill
