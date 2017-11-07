@@ -1,5 +1,7 @@
 ---
 title: River Walk East
+featuredImage: /assets/uploads/riverwalk-hero.jpg
+logoImage: /assets/uploads/riverwalk-logo.png
 location: 18 Uptown Drive
 city: Markham
 status: Completed
@@ -23,6 +25,22 @@ description: >-
   outstanding selection of suite designs – all energy-efficient to LEED® Gold
   standards. All this in the finest and most prestigious location north of
   Toronto.
+exteriorGallery:
+  - image: /assets/uploads/riverwalk-ext1.jpg
+  - image: /assets/uploads/riverwalk-ext2.jpg
+  - image: /assets/uploads/riverwalk-ext3.jpg
+  - image: /assets/uploads/riverwalk-ext4.jpg
+  - image: /assets/uploads/riverwalk-ext5.jpg
+interiorGallery:
+  - image: /assets/uploads/riverwalk-int1.jpg
+  - image: /assets/uploads/riverwalk-int2.jpg
+  - image: /assets/uploads/riverwalk-int3.jpg
+  - image: /assets/uploads/riverwalk-int4.jpg
+  - image: /assets/uploads/riverwalk-int5.jpg
+  - image: /assets/uploads/riverwalk-int6.jpg
+  - image: /assets/uploads/riverwalk-int7.jpg
+  - image: /assets/uploads/riverwalk-int8.jpg
+  - image: /assets/uploads/riverwalk-int9.jpg
 latLng:
   - lat: '43.856466'
     lng: '-79.325945'
