@@ -1,5 +1,6 @@
 ---
 title: Eden Park I Townhomes
+featuredImage: /assets/uploads/eden_park_i_towns-hero.jpg
 location: 215-271 South Park Road
 city: Thornhill
 status: Completed
@@ -17,6 +18,10 @@ description: >-
   international shops and restaurants, parks, schools and public transit. The
   Townhomes at Eden Park are poised to become one of the most sought-after
   addresses north of Toronto.
+exteriorGallery:
+  - image: /assets/uploads/eden_park_i_towns-ext1.jpg
+  - image: /assets/uploads/eden_park_i_towns-ext2.jpg
+  - image: /assets/uploads/eden_park_i_towns-ext3.jpg
 latLng:
   - lat: '43.838333'
     lng: '-79.391125'
