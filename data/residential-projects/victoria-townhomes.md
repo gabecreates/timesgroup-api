@@ -1,5 +1,5 @@
 ---
-title: "Victoria Townhomes\L"
+title: Victoria Townhomes
 featuredImage: /assets/uploads/victoria_towns-hero.jpg
 location: 88 Times Avenue
 city: Thornhill
