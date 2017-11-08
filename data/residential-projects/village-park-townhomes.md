@@ -24,7 +24,9 @@ exteriorGallery:
   - image: /assets/uploads/village_park_towns-ext2.jpg
   - image: /assets/uploads/village_park_towns-ext3.jpg
   - image: /assets/uploads/village_park_towns-ext4.jpg
-interiorGallery: []
+interiorGallery:
+  - image: /assets/uploads/village_park_towns-int1.jpg
+  - image: /assets/uploads/village_park_towns-int2.jpg
 latLng:
   - lat: '43.859066'
     lng: '-79.324062'
