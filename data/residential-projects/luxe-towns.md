@@ -1,6 +1,8 @@
 ---
 title: Luxe Towns
 enabled: 'Yes'
+featuredImage: /assets/uploads/luxe_hero.jpg
+logoImage: /assets/uploads/luxe_logo.png
 location: Hwy 7 & Valleymede Dr.
 city: Richmond Hill
 status: Construction
