@@ -1,6 +1,7 @@
 ---
 title: Broadway
 enabled: 'Yes'
+featuredImage: /assets/uploads/broadway-hero.jpg
 location: Yonge & Eglinton
 city: Toronto
 status: Coming Soon
