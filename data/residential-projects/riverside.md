@@ -21,7 +21,7 @@ latLng:
   - lat: '43.856444'
     lng: '-79.327796'
 related:
-  - {}
-  - {}
+  - title: River Walk East
+  - title: Riverpark
 ---
 
