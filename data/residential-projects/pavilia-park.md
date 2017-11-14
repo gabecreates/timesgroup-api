@@ -6,5 +6,7 @@ location: Hwy 7 & South Park Rd
 city: Thornhill
 status: Coming Soon
 projectType: Low-rise Residential
+websiteLink: 'http://paviliapark.com/'
+registrationLink: 'http://paviliapark.com/'
 ---
 
