@@ -6,5 +6,7 @@ location: Hwy 7 & South Park Rd
 city: Thornhill
 status: Coming Soon
 projectType: High-rise Residential
+websiteLink: 'http://paviliatowers.com/'
+registrationLink: 'http://paviliatowers.com/'
 ---
 
