@@ -1,6 +1,7 @@
 ---
 title: Pavilia Park Towers
-enabled: 'No'
+enabled: 'Yes'
+featuredImage: /assets/uploads/pavilia_park_towers-hero.jpg
 location: Hwy 7 & South Park Rd
 city: Thornhill
 status: Coming Soon
