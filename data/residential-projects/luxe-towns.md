@@ -7,7 +7,7 @@ status: Construction
 units: '88'
 projectType: Low-rise Residential
 contactPhoneNumber: 905.882.8078
-contactEmail: 'http://valleymedetowers.ca'
+contactEmail: sales@valleymedetowers.ca
 websiteLink: 'http://luxetowns.ca/'
 latLng:
   - lat: '43.842241'
