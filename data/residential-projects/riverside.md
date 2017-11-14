@@ -1,6 +1,8 @@
 ---
 title: Riverside
 enabled: 'Yes'
+featuredImage: /assets/uploads/riverside_hero.jpg
+logoImage: /assets/uploads/riverside_logo.png
 location: Hwy 7 & Birchmount
 city: Markham
 status: Completed
