@@ -1,6 +1,7 @@
 ---
 title: River Park
 enabled: 'Yes'
+dateAdded: 2014-04-01T12:26:16-04:00
 featuredImage: /assets/uploads/river_park-hero.jpg
 logoImage: /assets/uploads/river_park-logo.png
 location: 8228 Birchmount Road
