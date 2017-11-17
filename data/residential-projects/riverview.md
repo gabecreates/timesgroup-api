@@ -1,6 +1,7 @@
 ---
 title: Riverview
 enabled: 'Yes'
+dateAdded: 2017-08-01T12:22:10-04:00
 featuredImage: /assets/uploads/riverview-hero.jpg
 location: Hwy 7 & Birchmount
 city: Markham
