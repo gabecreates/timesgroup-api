@@ -1,6 +1,7 @@
 ---
 title: Bayview Villas Townhomes
 enabled: 'Yes'
+dateAdded: 2010-12-01T12:27:51-05:00
 featuredImage: /assets/uploads/bayview_villas-hero.jpg
 logoImage: /assets/uploads/bayview_villas-logo.jpg
 location: 318-320 John Street
