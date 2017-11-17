@@ -1,6 +1,7 @@
 ---
 title: Luxe Towns
 enabled: 'Yes'
+dateAdded: 2017-01-01T12:24:04-05:00
 featuredImage: /assets/uploads/luxe_hero.jpg
 logoImage: /assets/uploads/luxe_logo.png
 location: Hwy 7 & Valleymede Dr.
