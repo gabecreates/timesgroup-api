@@ -1,6 +1,7 @@
 ---
 title: Eden Park II
 enabled: 'Yes'
+dateAdded: 2013-05-01T12:26:36-04:00
 featuredImage: /assets/uploads/eden_park_ii_towns-hero.jpg
 logoImage: /assets/uploads/eden_park_ii-logo.png
 location: 277 South Park Road
