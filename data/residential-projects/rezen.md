@@ -1,6 +1,7 @@
 ---
 title: REZEN
 enabled: 'Yes'
+dateAdded: 2009-11-01T12:42:35-05:00
 featuredImage: /assets/uploads/rezen-hero.jpg
 logoImage: /assets/uploads/rezen-logo.jpg
 location: 205 Frederick Street
