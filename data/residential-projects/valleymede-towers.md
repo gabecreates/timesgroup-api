@@ -1,6 +1,7 @@
 ---
 title: Valleymede Towers
 enabled: 'Yes'
+dateAdded: 2017-03-01T12:23:20-05:00
 featuredImage: /assets/uploads/valleymede_hero.jpg
 logoImage: /assets/uploads/valleymede_logo.png
 location: Hwy 7 & Valleymede Dr.
