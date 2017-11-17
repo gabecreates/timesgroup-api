@@ -1,6 +1,7 @@
 ---
 title: Eden Park I Townhomes
 enabled: 'Yes'
+dateAdded: 2011-11-01T12:27:25-04:00
 featuredImage: /assets/uploads/eden_park_i_towns-hero.jpg
 location: 215-271 South Park Road
 city: Thornhill
