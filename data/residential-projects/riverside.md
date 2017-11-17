@@ -1,6 +1,7 @@
 ---
 title: Riverside
 enabled: 'Yes'
+dateAdded: 2017-02-01T12:23:44-05:00
 featuredImage: /assets/uploads/riverside_hero.jpg
 logoImage: /assets/uploads/riverside_logo.png
 location: Hwy 7 & Birchmount
