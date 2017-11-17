@@ -1,6 +1,7 @@
 ---
 title: Key West
 enabled: 'Yes'
+dateAdded: 2016-12-01T12:24:29-05:00
 featuredImage: /assets/uploads/key_west-hero.jpg
 logoImage: /assets/uploads/key_west-logo.png
 location: 36 Park Lawn Road
