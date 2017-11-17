@@ -1,6 +1,7 @@
 ---
 title: Derby Tower
 enabled: 'Yes'
+dateAdded: 2011-10-01T15:12:38-04:00
 featuredImage: /assets/uploads/derby_tower-hero.jpg
 location: 130 Pond Drive
 city: Thornhill
