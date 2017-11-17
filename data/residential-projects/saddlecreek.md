@@ -1,6 +1,7 @@
 ---
 title: Saddlecreek
 enabled: 'Yes'
+dateAdded: 1999-12-01T15:26:47-05:00
 featuredImage: /assets/uploads/saddlecreek-hero.jpg
 location: 135 Pond Drive
 city: Thornhill
