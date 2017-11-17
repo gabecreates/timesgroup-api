@@ -1,6 +1,7 @@
 ---
 title: Bayview Mansion Townhomes
 enabled: 'Yes'
+dateAdded: 2006-11-01T12:44:27-04:00
 featuredImage: /assets/uploads/bayview_mansions_towns-hero.jpg
 logoImage: /assets/uploads/bayview_mansions_towns-logo.jpg
 location: 1 and 2 Clairtrell Rd.
