@@ -1,6 +1,7 @@
 ---
 title: Galleria Tower
 enabled: 'Yes'
+dateAdded: 2005-10-01T12:50:04-04:00
 featuredImage: /assets/uploads/galleria-hero.JPG
 location: 51 Saddlecreek Drive
 city: Thornhill
