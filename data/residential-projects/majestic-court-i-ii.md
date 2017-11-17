@@ -1,6 +1,7 @@
 ---
 title: Majestic Court I & II
 enabled: 'Yes'
+dateAdded: 2009-12-01T12:28:47-05:00
 featuredImage: /assets/uploads/majestic_court-hero.jpg
 logoImage: /assets/uploads/majestic_court-logo.jpg
 location: 60 South Town Centre/ 50 Clegg Road
