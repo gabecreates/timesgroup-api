@@ -1,6 +1,7 @@
 ---
 title: Village Park II
 enabled: 'Yes'
+dateAdded: 2017-04-01T12:22:57-04:00
 location: Hwy 7 & Village Parkway
 city: Unionville
 status: Construction
