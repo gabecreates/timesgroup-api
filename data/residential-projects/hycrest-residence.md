@@ -1,6 +1,7 @@
 ---
 title: Hycrest Residence
 enabled: 'Yes'
+dateAdded: 1996-12-01T15:27:41-05:00
 featuredImage: /assets/uploads/hycrest-hero.jpg
 location: North York
 city: North York
