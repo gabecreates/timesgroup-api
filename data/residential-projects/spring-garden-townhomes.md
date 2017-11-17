@@ -1,6 +1,7 @@
 ---
 title: Spring Garden Townhomes
 enabled: 'Yes'
+dateAdded: 2008-12-01T12:42:17-05:00
 featuredImage: /assets/uploads/spring_garden-hero.jpg
 logoImage: /assets/uploads/spring_garden-logo.png
 location: 20-56 Clairtrell Road
