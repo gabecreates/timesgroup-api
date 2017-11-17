@@ -14,7 +14,7 @@ collections:
     fields:    
       - {name: title, label: Project Name}
       - {name: enabled, label: Show Project, widget: select, options: [Yes, No]}
-      - {name: dateAdded, label: Date Added (sorts project), width: datetime}
+      - {name: dateAdded, label: Date Added (sorts project), widget: datetime}
       - {name: featuredImage, label: Featured Image, widget: image, required: false}
       - {name: logoImage, label: Logo, widget: image, required: false}
       - {name: location, label: Location, required: false}
