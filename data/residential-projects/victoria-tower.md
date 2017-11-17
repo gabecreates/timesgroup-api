@@ -1,7 +1,7 @@
 ---
 title: Victoria Tower
 enabled: 'Yes'
-dateAdded: 2017-12-01T12:49:21-05:00
+dateAdded: 2005-12-01T12:49:21-05:00
 featuredImage: /assets/uploads/victoria_towers-hero.jpg
 location: 88 Times Ave.
 city: Thornhill
