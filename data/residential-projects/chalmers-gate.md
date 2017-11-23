@@ -1,6 +1,7 @@
 ---
 title: Chalmers Gate
-enabled: 'Yes'
+enabled: 'No'
+dateAdded: 2017-11-23T15:29:59.992Z
 featuredImage: /assets/uploads/chalmers_gate-hero.jpg
 location: 9 Chalmers Road
 city: Richmond Hill
