@@ -1,6 +1,6 @@
 ---
 tagline: Quality real estate through passion and responsibility
-firstFeaturedProject: River Walk East
+firstFeaturedProject: Riverwalk
 secondFeaturedProject: Riverside
 thirdFeaturedProject: River Park
 greenTagline: We build green
