@@ -1,7 +1,8 @@
 ---
 title: Richmond Park
 enabled: 'Yes'
-dateAdded: 2017-05-01T12:22:38-04:00
+dateAdded: 2017-05-01T16:22:38.000Z
+registerOnly: 'Yes'
 featuredImage: /assets/uploads/richmond_park-hero.jpg
 location: North Leslie in Richmond Hill
 city: Richmond Hill
