@@ -1,10 +1,10 @@
 ---
 title: Bayview Mansion I & II
 enabled: 'Yes'
-dateAdded: 2006-12-01T12:43:59-05:00
+dateAdded: 2006-12-01T17:43:59.000Z
 featuredImage: /assets/uploads/bayview_mansions-hero.jpg
 logoImage: /assets/uploads/bayview_mansions-logo.jpg
-location: 1 and 2 Clairtrell Road
+location: 1 & 2 Clairtrell Road
 city: North York
 status: Completed
 completedDate: '2003, 2006'
