@@ -1,7 +1,7 @@
 ---
 title: Pavilia Park
 enabled: 'Yes'
-dateAdded: 2017-10-01T12:21:05-04:00
+dateAdded: 2017-10-01T16:21:05.000Z
 featuredImage: /assets/uploads/pavilia_park-hero.jpg
 location: Hwy 7 & South Park Rd
 city: Thornhill
@@ -9,5 +9,8 @@ status: Coming Soon
 projectType: Low-rise Residential
 websiteLink: 'http://paviliapark.com/'
 registrationLink: 'http://paviliapark.com/'
+latLng:
+  - lat: '43.839059'
+    lng: '-79.394844'
 ---
 
