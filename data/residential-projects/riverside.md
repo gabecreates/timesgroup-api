@@ -1,7 +1,7 @@
 ---
 title: Riverside
 enabled: 'Yes'
-dateAdded: 2017-02-01T12:23:44-05:00
+dateAdded: 2017-02-01T17:23:44.000Z
 featuredImage: /assets/uploads/riverside_hero.jpg
 logoImage: /assets/uploads/riverside_logo.png
 location: Hwy 7 & Birchmount
@@ -22,7 +22,7 @@ latLng:
   - lat: '43.856444'
     lng: '-79.327796'
 related:
-  - title: River Walk East
+  - title: Riverwalk
   - title: River Park
 ---
 
