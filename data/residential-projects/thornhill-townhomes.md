@@ -1,7 +1,7 @@
 ---
-title: "Thornhill Townhomes\L\L"
+title: Thornhill Townhomes
 enabled: 'Yes'
-dateAdded: 2011-11-01T15:13:04-04:00
+dateAdded: 2011-11-01T19:13:04.000Z
 featuredImage: /assets/uploads/thornhill_towns-hero.jpg
 logoImage: /assets/uploads/thornhill_towers-logo.png
 location: 48 Suncrest Blvd.
