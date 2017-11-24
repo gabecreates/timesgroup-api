@@ -10,6 +10,6 @@ greenText: >-
   a better future.
 firstGreenProject: River Park
 secondGreenProject: Eden Park II
-thirdGreenProject: Majestic Court I & II
+thirdGreenProject: Eden Park I Highrise
 ---
 
