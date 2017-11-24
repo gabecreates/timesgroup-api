@@ -1,7 +1,7 @@
 ---
 title: Riverview
 enabled: 'Yes'
-dateAdded: 2017-08-01T12:22:10-04:00
+dateAdded: 2017-08-01T16:22:10.000Z
 featuredImage: /assets/uploads/riverview-hero.jpg
 location: Hwy 7 & Birchmount
 city: Markham
@@ -11,5 +11,6 @@ registrationLink: 'http://riverviewcondo.ca/'
 latLng:
   - lat: '43.855836'
     lng: '-79.329963'
+leedAwardImage: /assets/uploads/Leed_candidate.png
 ---
 
