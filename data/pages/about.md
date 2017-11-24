@@ -1,9 +1,10 @@
 ---
 quote: >-
-  The passion we all have determines not only how successful we will be, but
-  also how far we are willing to go to get to where we want to be. Along with
-  that we are very honest.
-quoteAuthor: 'Saeid Aghaei, Partner'
+  Together with the City of Markham, our goal is to create a safe and
+  sustainable community. Times Group stands on its record of sustainability and
+  we built the first LEED Gold building in York Region that is also located in
+  the City of Markham.
+quoteAuthor: Hashem Ghadaki
 aboutTagline: A Commitment to Quality
 aboutText: >-
   Inspired by core family values of quality, trust and tradition, Times Group
