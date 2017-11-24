@@ -24,5 +24,6 @@ latLng:
 related:
   - title: Riverwalk
   - title: River Park
+leedAwardImage: /assets/uploads/Leed_candidate.png
 ---
 
