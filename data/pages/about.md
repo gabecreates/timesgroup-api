@@ -4,7 +4,7 @@ quote: >-
   sustainable community. Times Group stands on its record of sustainability and
   we built the first LEED Gold building in York Region that is also located in
   the City of Markham.
-quoteAuthor: Hashem Ghadaki
+quoteAuthor: 'Hashem Ghadaki, President'
 aboutTagline: A Commitment to Quality
 aboutText: >-
   Inspired by core family values of quality, trust and tradition, Times Group
