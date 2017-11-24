@@ -12,5 +12,6 @@ registrationLink: 'http://paviliatowers.com/'
 latLng:
   - lat: '43.839106'
     lng: '-79.394680'
+leedAwardImage: /assets/uploads/Leed_candidate.png
 ---
 
