@@ -1,7 +1,7 @@
 ---
 title: Saddlecreek
 enabled: 'Yes'
-dateAdded: 1999-12-01T15:26:47-05:00
+dateAdded: 1999-12-01T20:26:47.000Z
 featuredImage: /assets/uploads/saddlecreek-hero.jpg
 location: 135 Pond Drive
 city: Thornhill
@@ -28,7 +28,7 @@ exteriorGallery:
   - image: /assets/uploads/saddlecreek-ext2.jpg
     title: Saddlecreek Exterior
 latLng:
-  - lat: '43.842149'
-    lng: '-78.38885'
+  - lat: ''
+    lng: ''
 ---
 
