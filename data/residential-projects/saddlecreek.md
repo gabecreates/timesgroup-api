@@ -28,7 +28,7 @@ exteriorGallery:
   - image: /assets/uploads/saddlecreek-ext2.jpg
     title: Saddlecreek Exterior
 latLng:
-  - lat: ''
-    lng: ''
+  - lat: '43.841892'
+    lng: '-79.388995'
 ---
 
