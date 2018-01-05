@@ -5,7 +5,7 @@ dateAdded: 2017-08-01T16:22:10.000Z
 featuredImage: /assets/uploads/riverview-hero.jpg
 location: Hwy 7 & Birchmount
 city: Markham
-status: Construction
+status: Coming Soon
 projectType: High-rise Residential
 registrationLink: 'http://riverviewcondo.ca/'
 latLng:
