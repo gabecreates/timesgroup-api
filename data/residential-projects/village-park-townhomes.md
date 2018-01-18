@@ -1,7 +1,7 @@
 ---
 title: Village Park Townhomes
 enabled: 'Yes'
-dateAdded: 2016-11-01T12:24:47-04:00
+dateAdded: 2016-11-01T16:24:47.000Z
 featuredImage: /assets/uploads/village_park_towns-hero.jpg
 logoImage: /assets/uploads/village-park-townhomes.jpg
 location: Village Parkway & Hwy 7 East
@@ -31,5 +31,8 @@ interiorGallery:
 latLng:
   - lat: '43.859066'
     lng: '-79.324062'
+related:
+  - title: Richmond Park
+  - title: Pavilia Park
 ---
 
