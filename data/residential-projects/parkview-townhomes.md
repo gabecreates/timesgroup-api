@@ -1,7 +1,7 @@
 ---
 title: Parkview Townhomes
 enabled: 'Yes'
-dateAdded: 2007-11-01T12:43:32-04:00
+dateAdded: 2007-11-01T16:43:32.000Z
 featuredImage: /assets/uploads/parkview_towns-hero.jpg
 location: 39 Galleria Parkway
 city: Thornhill
@@ -27,5 +27,8 @@ exteriorGallery:
 latLng:
   - lat: '43.839418'
     lng: '-79.393336'
+related:
+  - title: Richmond Park
+  - title: Pavilia Park
 ---
 
