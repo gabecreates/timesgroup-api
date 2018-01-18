@@ -16,10 +16,14 @@ architect: KIRKOR ARCHITECTS + PLANNERS
 interiorDesigner: TOMACE PEARCE
 landscapeArchitect: SCHOLLEN & COMPANY INC.
 description: >-
-  Times Group Corporation introduces Luxe Towns Collection and Valleymede
-  Towers. A highly sought after development that consist of a limited collection
-  of forty five 3-storey, 2-car or 3-car garage, townhomes at a two condominium
-  towers in the heart of Richmond Hill
+  Created with an urban chic hotel feel, Valleymede Towers stands out with its
+  striking modern architecture and skillfully layered textures. Layouts offers
+  the maximum in style and comfort, each with expansive outdoor balconies and
+  terraces. Exclusive to Valleymede Towers is its incredible selection of
+  luxuriously appointed amenities, including a state-of-the-art fitness studio,
+  a vibrant multi-purpose/party room, a library, and a billiards lounge. Other
+  features include modern, boutique style lobbies, beautiful guest suite and an
+  expansive multi-purpose rooms.
 latLng:
   - lat: '43.842241'
     lng: '-79.393616'
