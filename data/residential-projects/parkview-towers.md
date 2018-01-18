@@ -1,7 +1,7 @@
 ---
 title: Parkview Towers
 enabled: 'Yes'
-dateAdded: 2007-12-01T12:43:01-05:00
+dateAdded: 2007-12-01T17:43:01.000Z
 featuredImage: /assets/uploads/parkview-hero.jpg
 logoImage: /assets/uploads/parkview-logo.jpg
 location: 39 Galleria Parkway
@@ -34,5 +34,9 @@ interiorGallery:
 latLng:
   - lat: '43.839415'
     lng: '-79.393329'
+related:
+  - title: Broadway
+  - title: Riverview
+  - title: Pavilia Park Towers
 ---
 
