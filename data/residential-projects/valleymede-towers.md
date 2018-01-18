@@ -23,5 +23,9 @@ description: >-
 latLng:
   - lat: '43.842241'
     lng: '-79.393616'
+related:
+  - title: Yonge & Davisville Condos
+  - title: Broadway
+  - title: Riverview
 ---
 
