@@ -44,6 +44,10 @@ interiorGallery:
 latLng:
   - lat: '43.838622'
     lng: '-79.391429'
+related:
+  - title: Broadway
+  - title: Riverview
+  - title: Pavilia Park Towers
 leedAwardImage: /assets/uploads/leed_gold_2012.png
 ---
 
