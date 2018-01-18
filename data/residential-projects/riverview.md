@@ -11,6 +11,10 @@ registrationLink: 'http://riverviewcondo.ca/'
 latLng:
   - lat: '43.855836'
     lng: '-79.329963'
+related:
+  - title: Yonge & Davisville Condos
+  - title: Broadway
+  - title: Pavilia Park Towers
 leedAwardImage: /assets/uploads/Leed_candidate.png
 ---
 
