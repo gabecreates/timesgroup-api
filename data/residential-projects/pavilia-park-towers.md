@@ -12,6 +12,10 @@ registrationLink: 'http://paviliatowers.com/'
 latLng:
   - lat: '43.839106'
     lng: '-79.394680'
+related:
+  - title: Yonge & Davisville Condos
+  - title: Broadway
+  - title: Riverview
 leedAwardImage: /assets/uploads/Leed_candidate.png
 ---
 
