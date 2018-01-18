@@ -11,5 +11,9 @@ projectType: High-rise Residential
 latLng:
   - lat: '43.706931'
     lng: '-79.398163'
+related:
+  - title: Yonge & Davisville Condos
+  - title: Riverview
+  - title: Pavilia Park Towers
 ---
 
