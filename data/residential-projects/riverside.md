@@ -11,6 +11,9 @@ projectType: High-rise Residential
 contactPhoneNumber: 905.479.5557
 contactEmail: info@uptownmarkham.com
 websiteLink: 'http://uptownmarkham.com/Riverside/'
+architect: KIRKOR ARCHITECTS + PLANNERS
+interiorDesigner: Hefele Makowka Design Associates
+landscapeArchitect: SCHOLLEN & COMPANY INC.
 description: >-
   With Uptown Markham, TIMES GROUP CORPORATION is creating a magnificent master
   planned condominium community rising majestically above the Rouge River
