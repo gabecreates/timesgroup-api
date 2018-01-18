@@ -1,7 +1,7 @@
 ---
 title: Bayview Villas Townhomes
 enabled: 'Yes'
-dateAdded: 2010-12-01T12:27:51-05:00
+dateAdded: 2010-12-01T17:27:51.000Z
 featuredImage: /assets/uploads/bayview_villas-hero.jpg
 logoImage: /assets/uploads/bayview_villas-logo.jpg
 location: 318-320 John Street
@@ -28,5 +28,8 @@ exteriorGallery:
 latLng:
   - lat: '43.819564'
     lng: '-79.396074'
+related:
+  - title: Richmond Park
+  - title: Pavilia Park
 ---
 
