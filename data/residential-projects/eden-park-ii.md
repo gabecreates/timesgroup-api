@@ -1,7 +1,7 @@
 ---
 title: Eden Park II
 enabled: 'Yes'
-dateAdded: 2013-05-01T12:26:36-04:00
+dateAdded: 2013-05-01T16:26:36.000Z
 featuredImage: /assets/uploads/eden_park_ii_towns-hero.jpg
 logoImage: /assets/uploads/eden_park_ii-logo.png
 location: 277 South Park Road
@@ -42,6 +42,10 @@ interiorGallery:
 latLng:
   - lat: '43.837461'
     lng: '-79.391224'
+related:
+  - title: Broadway
+  - title: Riverview
+  - title: Pavilia Park Towers
 leedAwardImage: /assets/uploads/leed_gold_2015.png
 ---
 
