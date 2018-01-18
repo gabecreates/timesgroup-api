@@ -1,7 +1,7 @@
 ---
 title: Majestic Court I & II
 enabled: 'Yes'
-dateAdded: 2009-12-01T12:28:47-05:00
+dateAdded: 2009-12-01T17:28:47.000Z
 featuredImage: /assets/uploads/majestic_court-hero.jpg
 logoImage: /assets/uploads/majestic_court-logo.jpg
 location: 60 South Town Centre/ 50 Clegg Road
@@ -38,6 +38,10 @@ interiorGallery:
 latLng:
   - lat: '43.852656'
     lng: '-79.338496'
+related:
+  - title: Broadway
+  - title: Riverview
+  - title: Pavilia Park Towers
 leedAwardImage: /assets/uploads/leed_gold_2011.png
 ---
 
