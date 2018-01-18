@@ -15,12 +15,18 @@ architect: KIRKOR ARCHITECTS + PLANNERS
 interiorDesigner: Hefele Makowka Design Associates
 landscapeArchitect: SCHOLLEN & COMPANY INC.
 description: >-
-  With Uptown Markham, TIMES GROUP CORPORATION is creating a magnificent master
-  planned condominium community rising majestically above the Rouge River
-  valley. Now we proudly unveil Riverside, the latest phase of this exciting and
-  exclusive community. A pair of elegant 8 and 28-storey residences, Riverside
-  will cement the TIMES GROUP's reputation as the premier developer of the
-  Markham-Richmond hill area around Highway 7 and in Markham Centre.
+  With its sleek and contemporary exterior of brick and stone finish, large
+  luminous windows and beautiful roof gardens, Riverside is situated alongside
+  Uptown Markham’s expansive park and beautifully landscaped venue for local
+  festivals and municipal events, outdoor markets, exhibits, and public art.
+  Offering a vast array of social and recreational amenities, Riverside is the
+  first building on Highway 7 to feature an outdoor swimming pool. Perched on
+  the rooftop of the building’s 10th floor, the expansive pool features a
+  spacious sundeck and landscaped terrace with BBQs, an indoor Lounge with a bar
+  and TV screens and guest suites. Inside residents will find a well-equipped
+  fitness centre, ping pong, billiards and card rooms, a library/Wi-Fi lounge,
+  and a spectacular party room complete with dining area and bar, servery, and
+  access to a quiet outdoor patio facing the Rouge River.
 latLng:
   - lat: '43.856444'
     lng: '-79.327796'
