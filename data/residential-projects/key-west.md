@@ -38,5 +38,9 @@ interiorGallery:
 latLng:
   - lat: '43.624634'
     lng: '-79.483155'
+related:
+  - title: Broadway
+  - title: Riverview
+  - title: Pavilia Park Towers
 ---
 
