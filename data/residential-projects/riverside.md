@@ -25,8 +25,9 @@ latLng:
   - lat: '43.856444'
     lng: '-79.327796'
 related:
-  - title: Riverwalk
-  - title: River Park
+  - title: Broadway
+  - title: Riverview
+  - title: Pavilia Park Towers
 leedAwardImage: /assets/uploads/Leed_candidate.png
 ---
 
