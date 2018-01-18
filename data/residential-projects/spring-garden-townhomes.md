@@ -1,7 +1,7 @@
 ---
 title: Spring Garden Townhomes
 enabled: 'Yes'
-dateAdded: 2008-12-01T12:42:17-05:00
+dateAdded: 2008-12-01T17:42:17.000Z
 featuredImage: /assets/uploads/spring_garden-hero.jpg
 logoImage: /assets/uploads/spring_garden-logo.png
 location: 20-56 Clairtrell Road
@@ -31,5 +31,8 @@ interiorGallery:
 latLng:
   - lat: '43.768260'
     lng: '-79.391297'
+related:
+  - title: Richmond Park
+  - title: Pavilia Park
 ---
 
