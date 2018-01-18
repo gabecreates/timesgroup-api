@@ -12,5 +12,7 @@ registrationLink: 'http://paviliapark.com/'
 latLng:
   - lat: '43.839059'
     lng: '-79.394844'
+related:
+  - title: Richmond Park
 ---
 
