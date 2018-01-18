@@ -1,7 +1,7 @@
 ---
 title: REZEN
 enabled: 'Yes'
-dateAdded: 2009-11-01T12:42:35-05:00
+dateAdded: 2009-11-01T17:42:35.000Z
 featuredImage: /assets/uploads/rezen-hero.jpg
 logoImage: /assets/uploads/rezen-logo.jpg
 location: 205 Frederick Street
@@ -33,5 +33,9 @@ interiorGallery:
 latLng:
   - lat: '43.651721'
     lng: '-79.369415'
+related:
+  - title: Broadway
+  - title: Riverview
+  - title: Pavilia Park Towers
 ---
 
