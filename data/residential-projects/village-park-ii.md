@@ -30,5 +30,8 @@ interiorGallery:
 latLng:
   - lat: '43.858877'
     lng: '-79.324094'
+related:
+  - title: Richmond Park
+  - title: Pavilia Park
 ---
 
