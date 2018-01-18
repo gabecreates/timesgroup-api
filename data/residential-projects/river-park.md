@@ -1,7 +1,7 @@
 ---
 title: River Park
 enabled: 'Yes'
-dateAdded: 2014-04-01T12:26:16-04:00
+dateAdded: 2014-04-01T16:26:16.000Z
 featuredImage: /assets/uploads/river_park-hero.jpg
 logoImage: /assets/uploads/river_park-logo.png
 location: 8228 Birchmount Road
@@ -48,6 +48,10 @@ interiorGallery:
 latLng:
   - lat: '43.857396'
     lng: '-79.324994'
+related:
+  - title: Broadway
+  - title: Riverview
+  - title: Pavilia Park Towers
 leedAwardImage: /assets/uploads/leed_plat_logo_small.png
 ---
 
