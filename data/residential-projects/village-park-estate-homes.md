@@ -1,7 +1,7 @@
 ---
 title: Village Park Estate Homes
 enabled: 'Yes'
-dateAdded: 2016-10-01T12:25:11-04:00
+dateAdded: 2016-10-01T16:25:11.000Z
 featuredImage: /assets/uploads/village_park_estate_homes-hero.jpg
 logoImage: /assets/uploads/village_park_estate_homes-logo.png
 location: 1-31 Francesco Ct and 76-88 Fitzgerald Avenue
@@ -42,5 +42,8 @@ exteriorGallery:
 latLng:
   - lat: '43.860824'
     lng: '-79.323648'
+related:
+  - title: Richmond Park
+  - title: Pavilia Park
 ---
 
