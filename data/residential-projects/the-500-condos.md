@@ -1,7 +1,7 @@
 ---
 title: The 500 Condos
 enabled: 'Yes'
-dateAdded: 2010-11-01T12:28:11-04:00
+dateAdded: 2010-11-01T16:28:11.000Z
 featuredImage: /assets/uploads/500_sher-hero.jpg
 logoImage: /assets/uploads/500_sher-logo.jpg
 location: 500 Sherbourne Street
@@ -35,5 +35,9 @@ interiorGallery:
 latLng:
   - lat: '43.667964'
     lng: '-79.375406'
+related:
+  - title: Broadway
+  - title: Riverview
+  - title: Pavilia Park Towers
 ---
 
