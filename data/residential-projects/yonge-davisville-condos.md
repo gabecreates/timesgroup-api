@@ -1,10 +1,14 @@
 ---
 title: Yonge & Davisville Condos
 enabled: 'No'
-dateAdded: 2017-09-01T12:20:37-04:00
+dateAdded: 2017-09-01T16:20:37.000Z
 location: Yonge & Davisville
 city: Toronto
 status: Coming Soon
 projectType: High-rise Residential
+related:
+  - title: Broadway
+  - title: Riverview
+  - title: Pavilia Park Towers
 ---
 
