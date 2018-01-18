@@ -18,5 +18,8 @@ landscapeArchitect: SCHOLLEN & COMPANY INC.
 latLng:
   - lat: '43.842241'
     lng: '-79.393616'
+related:
+  - title: Richmond Park
+  - title: Pavilia Park
 ---
 
