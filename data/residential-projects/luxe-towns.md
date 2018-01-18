@@ -15,6 +15,14 @@ websiteLink: 'http://luxetowns.ca/'
 architect: KIRKOR ARCHITECTS + PLANNERS
 interiorDesigner: TOMACE PEARCE
 landscapeArchitect: SCHOLLEN & COMPANY INC.
+description: >-
+  Luxe Towns are an exclusive limited collection of forty-five, 3-storey, 2-car
+  or 3-car garage townhomes, situated in the highly sought after Southern
+  Richmond Hill area. Residents will be surrounded by an incredible array of
+  shopping, world-class golf courses, and lush parks. They will also get to
+  choose from an array of highly acclaimed schools from much noted daycares to
+  the much anticipated and talked about future York University. Times Group has
+  developed almost 25 acres of luxurious parkland, just steps away.
 latLng:
   - lat: '43.842241'
     lng: '-79.393616'
