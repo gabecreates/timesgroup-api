@@ -1,6 +1,6 @@
 ---
 title: Yonge & Davisville Condos
-enabled: 'No'
+enabled: 'Yes'
 dateAdded: 2017-09-01T16:20:37.000Z
 featuredImage: /assets/uploads/davisvilleyonge-tile-1.png
 location: Yonge & Davisville
