@@ -7,7 +7,7 @@ logoImage: /assets/uploads/village-park-townhomes.jpg
 location: Village Parkway & Hwy 7 East
 city: Unionville
 status: Completed
-completedDate: '2015'
+completedDate: Fall 2016
 units: '110'
 projectType: Low-rise Residential
 contactPhoneNumber: 905.479.5557
