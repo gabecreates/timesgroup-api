@@ -6,8 +6,8 @@ featuredImage: /assets/uploads/key_west-hero.jpg
 logoImage: /assets/uploads/key_west-logo.png
 location: 36 Park Lawn Road
 city: Etobicoke
-status: Construction
-completedDate: ''
+status: Completed
+completedDate: '2017'
 units: '421'
 projectType: High-rise Residential
 contactPhoneNumber: ''
