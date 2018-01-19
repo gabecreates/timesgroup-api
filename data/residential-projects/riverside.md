@@ -6,7 +6,7 @@ featuredImage: /assets/uploads/riverside_hero.jpg
 logoImage: /assets/uploads/riverside_logo.png
 location: Hwy 7 & Birchmount
 city: Markham
-status: Completed
+status: Construction
 projectType: High-rise Residential
 contactPhoneNumber: 905.479.5557
 contactEmail: info@uptownmarkham.com
