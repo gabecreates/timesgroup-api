@@ -8,6 +8,9 @@ location: Yonge & Davisville
 city: Toronto
 status: Coming Soon
 projectType: High-rise Residential
+latLng:
+  - lat: '43.698604'
+    lng: '-79.396695'
 related:
   - title: Broadway
   - title: Riverview
