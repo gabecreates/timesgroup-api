@@ -29,9 +29,6 @@ projectList:
     projectLink: 'http://timesgoup.staging.wpengine.com/eden-park-phase-i/'
     projectName: Eden Park I
   - projectDesc: >+
-      overview-eden2
-
-
       Eden Park II is a Gold LEED® residential project offering residents
       numerous transit options including York Region Transit/VIVA routes and GO
       Train service at the nearby Langstaff Go Station. Along with 88 visitor
@@ -43,9 +40,6 @@ projectList:
 
     projectName: Eden Park II
   - projectDesc: >-
-      river-park-thumb1
-
-
       River Park is a LEED® Gold residential project offering residents numerous
       transit options including York Region Transit/VIVA routes and GO Train
       service at the nearby Unionville Go Station. Along with 235 visitor and
@@ -60,9 +54,6 @@ projectList:
       and the LCBO.
     projectName: River Park
   - projectDesc: >-
-      overview-river-walk
-
-
       River Walk East is a LEED® Gold residential project offering residents
       numerous transit options including York Region Transit/VIVA routes and GO
       Train service at the nearby Unionville Go Station. Along with 181 visitor
