@@ -12,7 +12,7 @@ projectList:
       Majestic Court is walking distance from many exciting shops and
       restaurants and for music lovers, the Flato Markham theatre is directly
       across Highway #7.
-    projectLink: 'http://timesgoup.staging.wpengine.com/majestic-court/'
+    projectLink: majestic-court-i-ii
     projectName: Majestic Court
   - projectDesc: >-
       Eden Park I is a LEED® Gold residential project offering residents
@@ -23,9 +23,6 @@ projectList:
       acres of parkland and bike paths to explore nearby including the newly
       built Leitchcroft Community Park. Finally, Eden Park I is located walking
       distance from many exciting shops and restaurants.
-
-
-      Read More
     projectLink: 'http://timesgoup.staging.wpengine.com/eden-park-phase-i/'
     projectName: Eden Park I
   - projectDesc: >+
