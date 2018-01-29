@@ -1,4 +1,91 @@
 ---
+projectList:
+  - projectDesc: >-
+      Majestic Court was York Region’s first LEED® Gold residential project –
+      something everyone can be proud of. The location offers residents numerous
+      transit options at their footsteps including York Region Transit/VIVA
+      routes and GO Train service at the nearby Unionville Go Station. For
+      cyclists the building is equipped with over 100 visitor and resident
+      bicycle parking spaces (located by building entrances and within
+      designated racks and rooms in the underground parking levels). There are
+      also many nearby parks, parkettes and bike paths to explore. Finally,
+      Majestic Court is walking distance from many exciting shops and
+      restaurants and for music lovers, the Flato Markham theatre is directly
+      across Highway #7.
+    projectLink: 'http://timesgoup.staging.wpengine.com/majestic-court/'
+    projectName: Majestic Court
+  - projectDesc: >-
+      Eden Park I is a LEED® Gold residential project offering residents
+      numerous transit options including York Region Transit/VIVA routes and GO
+      Train service at the nearby Langstaff Go Station. Along with approximately
+      110 visitor and resident bicycle parking spaces (located within dedicated
+      bicycle rooms in the underground parking levels), residents will also have
+      acres of parkland and bike paths to explore nearby including the newly
+      built Leitchcroft Community Park. Finally, Eden Park I is located walking
+      distance from many exciting shops and restaurants.
+
+
+      Read More
+    projectLink: 'http://timesgoup.staging.wpengine.com/eden-park-phase-i/'
+    projectName: Eden Park I
+  - projectDesc: >+
+      overview-eden2
+
+
+      Eden Park II is a Gold LEED® residential project offering residents
+      numerous transit options including York Region Transit/VIVA routes and GO
+      Train service at the nearby Langstaff Go Station. Along with 88 visitor
+      and resident bicycle parking spaces (located within the underground
+      parking levels), residents will also have acres of parkland and bike paths
+      to explore nearby including the newly built Leitchcroft Community Park.
+      Finally, Eden Park II is located walking distance from many exciting shops
+      and restaurants.
+
+    projectName: Eden Park II
+  - projectDesc: >-
+      river-park-thumb1
+
+
+      River Park is a LEED® Gold residential project offering residents numerous
+      transit options including York Region Transit/VIVA routes and GO Train
+      service at the nearby Unionville Go Station. Along with 235 visitor and
+      resident bicycle parking spaces (located by the building entrance and
+      underground parking levels), residents will also have acres of parkland,
+      bike paths and natural trails to explore in the nearby Rouge River Valley.
+      For transit help, the lobby area includes a convenient and up-to-date
+      transit information display. Finally, River Park provides exciting retail
+      both within the building, and just across Birchmount Road at Uptown
+      Market. At Uptown Market residents can shop, eat or just get errands done
+      at exciting retailers including Whole Foods Market, Bed Bath and Beyond
+      and the LCBO.
+    projectName: River Park
+  - projectDesc: >-
+      overview-river-walk
+
+
+      River Walk East is a LEED® Gold residential project offering residents
+      numerous transit options including York Region Transit/VIVA routes and GO
+      Train service at the nearby Unionville Go Station. Along with 181 visitor
+      and resident bicycle spaces (located by the building entrance and
+      underground parking levels), residents will also have acres of parkland,
+      bike paths and natural trails to explore in the nearby Rouge River Valley.
+      For transit help, the lobby area includes a convenient and up-to-date
+      transit information display. Finally, River Walk East provides exciting
+      retail within walking distance at Uptown Market where residents can shop,
+      eat or just get errands done at exciting retailers including Whole Foods
+      Market, Bed Bath and Beyond and the LCBO.
+    projectName: River Walk East
+  - projectDesc: >-
+      Uptown Market is LEED® retail shopping complex with an eye for all things
+      green. The center provides 20 exterior bicycle parking spaces by the Bank
+      of Montreal and 108 covered bicycle parking spaces in the underground
+      parking garage. Within the parking lot vestibule there is a universal
+      cyclist shower facility for employees of the center to use. Uptown Market
+      is served by York Region Transit and VIVA and is about 800m away from the
+      Unionville GO Station on Enterprise Boulevard. For more information visit
+      <a href=”http://www.uptownmarket.ca”
+      target=”_blank”>www.uptownmarket.ca</a>.
+    projectName: Uptown Market
 transportationTypes:
   - transportationBlocks:
       - articles:
