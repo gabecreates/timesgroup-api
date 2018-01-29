@@ -23,8 +23,9 @@ projectList:
       acres of parkland and bike paths to explore nearby including the newly
       built Leitchcroft Community Park. Finally, Eden Park I is located walking
       distance from many exciting shops and restaurants.
-    projectLink: 'http://timesgoup.staging.wpengine.com/eden-park-phase-i/'
+    projectLink: eden-park-i-highrise
     projectName: Eden Park I
+    projectThumb: ''
   - projectDesc: >+
       Eden Park II is a Gold LEED® residential project offering residents
       numerous transit options including York Region Transit/VIVA routes and GO
@@ -35,6 +36,7 @@ projectList:
       Finally, Eden Park II is located walking distance from many exciting shops
       and restaurants.
 
+    projectLink: eden-park-II
     projectName: Eden Park II
   - projectDesc: >-
       River Park is a LEED® Gold residential project offering residents numerous
@@ -49,6 +51,7 @@ projectList:
       Market. At Uptown Market residents can shop, eat or just get errands done
       at exciting retailers including Whole Foods Market, Bed Bath and Beyond
       and the LCBO.
+    projectLink: river-park
     projectName: River Park
   - projectDesc: >-
       River Walk East is a LEED® Gold residential project offering residents
@@ -62,6 +65,7 @@ projectList:
       retail within walking distance at Uptown Market where residents can shop,
       eat or just get errands done at exciting retailers including Whole Foods
       Market, Bed Bath and Beyond and the LCBO.
+    projectLink: river-walk-east
     projectName: River Walk East
   - projectDesc: >-
       Uptown Market is LEED® retail shopping complex with an eye for all things
@@ -73,6 +77,7 @@ projectList:
       Unionville GO Station on Enterprise Boulevard. For more information visit
       <a href=”http://www.uptownmarket.ca”
       target=”_blank”>www.uptownmarket.ca</a>.
+    projectLink: 'http://uptownmarket.ca'
     projectName: Uptown Market
 transportationTypes:
   - transportationBlocks:
