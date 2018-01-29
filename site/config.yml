@@ -120,5 +120,5 @@ collections:
         name: sustainablePage
         label: Sustainable Page
         fields:
-          - {name: transportationTypes, label: Transportation Types, required: false, widget: list, fields: [{name: typeLabel, label: Type Label, widget: text}, {name: typeSubtitle, label: Type Subtitle, widget: text}, {name: transportationBlocks, label: Transportation Blocks, required: false, widget: list, fields: [{name: transitThumb, label: Transit Image, widget: image, required: false}, {name: articles, label: Articles, required: false, widget: list, fields: [{name: caption, label: Caption, widget: text}, {name: link, label: Website Url, widget: text}]}]}]
+          - {name: transportationTypes, label: Transportation Types, required: false, widget: list, fields: [{name: typeLabel, label: Type Label, widget: text}, {name: typeSubtitle, label: Type Subtitle, widget: text}, {name: transportationBlocks, label: Transportation Blocks, required: false, widget: list, fields: [{name: transitThumb, label: Transit Image, widget: image, required: false}, {name: articles, label: Articles, required: false, widget: list, fields: [{name: caption, label: Caption, widget: text}, {name: link, label: Website Url, widget: text}]}]}]}
            
