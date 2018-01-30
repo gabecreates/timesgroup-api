@@ -122,6 +122,7 @@ collections:
         fields:
           - {name: pageTitle, label: Sustainable Title, required: false, widget: text}
           - {name: pageDesc, label: Sustainable Description, required: false, widget: text}
+          - {name: carousel, label: Carousel Images, required: false, widget: list, fields: [{name: carouselCaption, label: Carousel Caption, required: false, widget: text}, {name: carouselImg, label: Carousel Image, required: false, widget:image}]}
           - {name: projectHeader, label: Project Header, required: false, widget: text}
           - {name: projectSubheader, label: Project Subheader, required: false, widget: text}
           - {name: projectList, label: Project List, required: false, widget: list, fields: [{name: projectName, label: Project Name, required: false, widget: text}, {name: projectThumb, label: Project Thumb, required: false, widget:image}, {name: projectLink, label: Project Link, required: false, widget: text}, {name: projectDesc, label: Project Description, required: false, widget: text}]}
