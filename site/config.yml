@@ -120,5 +120,9 @@ collections:
         name: sustainablePage
         label: Sustainable Page
         fields:
+          - {name: pageTitle, label: Sustainable Title, required: false, widget: text}
+          - {name: pageDesc, label: Sustainable Description, required: false, widget: text}
+          - {name: projectHeader, label: Project Header, required: false, widget: text}
+          - {name: projectSubheader, label: Project Subheader, required: false, widget: text}
           - {name: projectList, label: Project List, required: false, widget: list, fields: [{name: projectName, label: Project Name, required: false, widget: text}, {name: projectThumb, label: Project Thumb, required: false, widget:image}, {name: projectLink, label: Project Link, required: false, widget: text}, {name: projectDesc, label: Project Description, required: false, widget: text}]}
           - {name: transportationTypes, label: Transportation Types, required: false, widget: list, fields: [{name: typeLabel, label: Type Label, widget: text}, {name: typeSubtitle, label: Type Subtitle, widget: text}, {name: transportationBlocks, label: Transportation Blocks, required: false, widget: list, fields: [{name: transitThumb, label: Transit Image, widget: image, required: false}, {name: articles, label: Articles, required: false, widget: list, fields: [{name: caption, label: Caption, widget: text}, {name: link, label: Website Url, widget: text}]}]}]}
