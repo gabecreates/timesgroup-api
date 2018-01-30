@@ -23,28 +23,23 @@ pageDesc: >-
   our community.
 carousel:
   - carouselCaption: >-
-      Times Group TDM Building Features
-
       Building TDM Features: Bicycle parking, transit information and more.
       Project specific features below.
+    carouselHeader: Times Group TDM Building Features
     carouselImg: /assets/uploads/tdm-111-1024x580.jpg
   - carouselCaption: >-
-      Public Transit
-
       Maps, schedules and links to VIVA, York Region, Transit, GO Buses &
       Trains, and TTC below.
+    carouselHeader: Public Transit
     carouselImg: /assets/uploads/tdm-091-1024x580.jpg
-  - carouselCaption: |-
-      Cycling Information
-      Find the best nearby trails and cycling tips below.
+  - carouselCaption: Find the best nearby trails and cycling tips below.
+    carouselHeader: Cycling Information
     carouselImg: /assets/uploads/tdm-03-1024x580.jpg
-  - carouselCaption: |-
-      Smart Commute 
-      Make your next trip faster and easier. Find out more below.
+  - carouselCaption: Make your next trip faster and easier. Find out more below.
+    carouselHeader: Smart Commute
     carouselImg: /assets/uploads/tdm-04-1024x580.jpg
-  - carouselCaption: |-
-      Go Active 
-      Get Up and Go! Active lifestyle information below.
+  - carouselCaption: ' Get Up and Go! Active lifestyle information below.'
+    carouselHeader: Go Active
     carouselImg: /assets/uploads/tdm-05-1024x580.jpg
 projectHeader: Times Group TDM/Sustainable Transportation Building Features
 projectSubheader: Towards A Greener Ride
