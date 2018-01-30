@@ -21,6 +21,31 @@ pageDesc: >-
   your feedback. Click here to access a City of Markham Transportation Survey so
   that we can help the municipality better design and plan transit services in
   our community.
+carousel:
+  - carouselCaption: >-
+      Times Group TDM Building Features
+
+      Building TDM Features: Bicycle parking, transit information and more.
+      Project specific features below.
+    carouselImg: /assets/uploads/tdm-111-1024x580.jpg
+  - carouselCaption: >-
+      Public Transit
+
+      Maps, schedules and links to VIVA, York Region, Transit, GO Buses &
+      Trains, and TTC below.
+    carouselImg: /assets/uploads/tdm-091-1024x580.jpg
+  - carouselCaption: |-
+      Cycling Information
+      Find the best nearby trails and cycling tips below.
+    carouselImg: /assets/uploads/tdm-03-1024x580.jpg
+  - carouselCaption: |-
+      Smart Commute 
+      Make your next trip faster and easier. Find out more below.
+    carouselImg: /assets/uploads/tdm-04-1024x580.jpg
+  - carouselCaption: |-
+      Go Active 
+      Get Up and Go! Active lifestyle information below.
+    carouselImg: /assets/uploads/tdm-05-1024x580.jpg
 projectHeader: Times Group TDM/Sustainable Transportation Building Features
 projectSubheader: Towards A Greener Ride
 projectList:
