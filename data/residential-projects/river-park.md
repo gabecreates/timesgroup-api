@@ -27,7 +27,10 @@ description: >-
   the community is a European-style plaza, over 150,000 square feet of
   neighbourhood shops, services and supermarkets counting Whole Foods Market,
   Panera Breads, LCBO and major banks among the anchor tenants at Uptown Market.
-  All this in the finest and most prestigious location north of Toronto.
+  All this in the finest and most prestigious location north of Toronto.<br><br>
+
+  <img
+  src="https://timesgroup.adhocstudio.ca/assets/uploads/river_park-hero.jpg">
 exteriorGallery:
   - image: /assets/uploads/river_park-ext1.JPG
   - image: /assets/uploads/river_park-ext2.JPG
