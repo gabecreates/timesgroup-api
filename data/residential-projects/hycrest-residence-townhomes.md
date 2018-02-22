@@ -1,6 +1,7 @@
 ---
 title: Hycrest Residence Townhomes
 enabled: 'Yes'
+dateAdded: 1996-12-01T00:00:00-05:00
 featuredImage: /assets/uploads/hycrest_towns-hero.jpg
 location: 1 Hycrest Avenue
 city: North York
@@ -22,5 +23,7 @@ exteriorGallery:
 latLng:
   - lat: '43.766290'
     lng: '-79.391996'
+related:
+  - title: Pavilia Park
 ---
 
