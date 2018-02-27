@@ -30,7 +30,7 @@ description: >-
   All this in the finest and most prestigious location north of Toronto.<br><br>
 
   <img
-  src="https://timesgroup.adhocstudio.ca/assets/uploads/EQ2018-BuildingInnovation_MidHighRise_FINALIST.png">
+  src="https://timesgroup.adhocstudio.ca/assets/uploads/EQ2018-BuildingInnovation_MidHighRise_WINNER.png">
 exteriorGallery:
   - image: /assets/uploads/river_park-ext1.JPG
   - image: /assets/uploads/river_park-ext2.JPG
