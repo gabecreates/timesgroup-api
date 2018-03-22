@@ -12,6 +12,6 @@ latLng:
   - lat: '43.911278'
     lng: '-79.399687'
 related:
-  - title: Pavilia Park
+  - title: Pavilia Park Towns
 ---
 
