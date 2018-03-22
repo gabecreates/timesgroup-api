@@ -14,6 +14,6 @@ latLng:
 related:
   - title: Yonge & Davisville Condos
   - title: Riverview
-  - title: Pavilia Park Towers
+  - title: Pavilia Towers
 ---
 
