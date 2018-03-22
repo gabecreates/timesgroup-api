@@ -45,7 +45,7 @@ latLng:
 related:
   - title: Broadway
   - title: Riverview
-  - title: Pavilia Park Towers
+  - title: Pavilia Towers
 leedAwardImage: /assets/uploads/leed_gold_2015.png
 ---
 
