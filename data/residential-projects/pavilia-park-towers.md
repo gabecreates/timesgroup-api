@@ -5,7 +5,7 @@ dateAdded: 2017-11-01T16:21:24.000Z
 featuredImage: /assets/uploads/pavilia_park_towers-hero2.jpg
 location: Hwy 7 & South Park Rd
 city: Thornhill
-status: Construction
+status: Coming Soon
 projectType: High-rise Residential
 websiteLink: 'http://paviliatowers.com/'
 registrationLink: 'http://paviliatowers.com/'
