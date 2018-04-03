@@ -18,7 +18,7 @@ landscapeArchitect: Schollen & Company Inc.
 description: >-
   A soaring vision of elegance above the brilliant blue waters hugging the
   shores of south Etobicoke, Key West is a stunningly modern statement of
-  elegant living. Come home to a spectacular 36-storey glass and steel
+  elegant living. Come home to a spectacular 44-storey glass and steel
   condominium tower with incredible views of the city and lake, as well as
   timeless vistas of the Humber River and the neighbouring Mimico River Ravine.
   Enjoy the beauty of nature at your doorstep while living within easy walking
