@@ -1,5 +1,5 @@
 ---
-title: Eden Park I Highrise
+title: Eden Park I
 enabled: 'Yes'
 dateAdded: 2011-12-01T17:26:57.000Z
 featuredImage: /assets/uploads/eden_park_i-hero.jpg
