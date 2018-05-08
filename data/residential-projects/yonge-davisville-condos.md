@@ -3,7 +3,7 @@ title: Yonge & Davisville Condos
 enabled: 'Yes'
 dateAdded: 2017-09-01T16:20:37.000Z
 registerOnly: 'Yes'
-featuredImage: /assets/uploads/yongedavisville-2000x1040.jpg
+featuredImage: /assets/uploads/millwood-logo.png
 location: Yonge & Davisville
 city: Toronto
 status: Coming Soon
