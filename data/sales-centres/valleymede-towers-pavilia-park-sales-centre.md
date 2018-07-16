@@ -7,6 +7,6 @@ hours:
   - hoursItem: 'FRI: CLOSED'
   - hoursItem: 'SAT - SUN: 12 - 5PM'
 contactPhoneNumber: 905.882.8078
-contactEmail: sales@uptownmarkham.com
+contactEmail: info@timesgroupcorp.com
 ---
 
