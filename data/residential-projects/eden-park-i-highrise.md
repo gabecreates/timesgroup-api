@@ -23,7 +23,10 @@ description: >-
   most sought-after condominiums north of Toronto. Amenities include indoor
   swimming pool, a movie theatre room, a games room, ping pong table,
   fully-equipped gym facility, a library, and a beautifully-appointed party
-  room.
+  room.<br><br>
+
+  <img
+  src="https://timesgroup.adhocstudio.ca/assets/uploads/leed_gold_2012.png">
 exteriorGallery:
   - image: /assets/uploads/eden_park_i-ext1.jpg
   - image: /assets/uploads/eden_park_i-ext2.jpg
