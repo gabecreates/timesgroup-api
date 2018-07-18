@@ -15,7 +15,7 @@ contactEmail: info@uptownmarkham.com
 architect: Kirkor Architects + Planners
 interiorDesigner: Renato Iamonaco
 landscapeArchitect: Schollen & Company Inc.
-description: >-
+description: >
   With River Park, Times Group introduced the first phase of Uptown Markham, a
   stunning array of low and highrise condominium residences set along the Rouge
   River valley. River Park residences are elegant, energy efficient, low
@@ -30,7 +30,8 @@ description: >-
   All this in the finest and most prestigious location north of Toronto.<br><br>
 
   <img
-  src="https://timesgroup.adhocstudio.ca/assets/uploads/EQ2018-BuildingInnovation_MidHighRise_WINNER.png">
+  src="https://timesgroup.adhocstudio.ca/assets/uploads/EQ2018-BuildingInnovation_MidHighRise_WINNER.png"><img
+  src="https://timesgroup.adhocstudio.ca/assets/uploads/leed_plat_logo_small.png">
 exteriorGallery:
   - image: /assets/uploads/river_park-ext1.JPG
   - image: /assets/uploads/river_park-ext2.JPG
