@@ -11,7 +11,7 @@ units: '88'
 projectType: Low-rise Residential
 contactPhoneNumber: 905.882.8078
 contactEmail: sales@valleymedetowers.ca
-websiteLink: 'http://luxetowns.ca/'
+websiteLink: ''
 architect: KIRKOR ARCHITECTS + PLANNERS
 interiorDesigner: TOMACE PEARCE
 landscapeArchitect: SCHOLLEN & COMPANY INC.
