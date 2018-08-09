@@ -20,7 +20,7 @@ collections:
       - {name: logoImage, label: Logo, widget: image, required: false}
       - {name: location, label: Location, required: false}
       - {name: city, label: City, required: false}
-      - {name: status, label: Project Status, required: false, widget: select, options: [Coming Soon, Construction, Completed]}
+      - {name: status, label: Project Status, required: false, widget: select, options: [Coming Soon, Approved - Coming Soon, Construction, Completed]}
       - {name: completedDate, label: Project Completed Date (if status is completed), required: false}
       - {name: units, label: Number of Units, required: false}
       - {name: projectType, label: Project Type, widget: select, options: [High-rise Residential, Low-rise Residential, Commercial]}
