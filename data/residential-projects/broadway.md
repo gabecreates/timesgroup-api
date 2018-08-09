@@ -6,7 +6,7 @@ registerOnly: 'Yes'
 featuredImage: /assets/uploads/broadway-hero.jpg
 location: Yonge & Eglinton
 city: Toronto
-status: Coming Soon
+status: Approved - Coming Soon
 units: 39 Stories
 projectType: High-rise Residential
 latLng:
