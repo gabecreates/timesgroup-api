@@ -14,7 +14,7 @@ latLng:
 related:
   - title: Yonge & Davisville Condos
   - title: Broadway
-  - title: Pavilia Park Towers
+  - title: Pavilia Towers
 leedAwardImage: /assets/uploads/Leed_candidate.png
 ---
 

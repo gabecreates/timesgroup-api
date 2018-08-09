@@ -7,11 +7,12 @@ featuredImage: /assets/uploads/richmond_park-hero.jpg
 location: North Leslie in Richmond Hill
 city: Richmond Hill
 status: Coming Soon
-projectType: High-rise Residential
+units: '600'
+projectType: Low-rise Residential
 latLng:
   - lat: '43.911278'
     lng: '-79.399687'
 related:
-  - title: Pavilia Park
+  - title: Pavilia Park Towns
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Pavilia Park
+title: Pavilia Park Towns
 enabled: 'Yes'
 dateAdded: 2017-10-01T16:21:05.000Z
 featuredImage: /assets/uploads/pavilia_park-hero.jpg

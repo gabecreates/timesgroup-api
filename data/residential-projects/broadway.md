@@ -7,6 +7,7 @@ featuredImage: /assets/uploads/broadway-hero.jpg
 location: Yonge & Eglinton
 city: Toronto
 status: Coming Soon
+units: 39 Stories
 projectType: High-rise Residential
 latLng:
   - lat: '43.706931'
@@ -14,6 +15,6 @@ latLng:
 related:
   - title: Yonge & Davisville Condos
   - title: Riverview
-  - title: Pavilia Park Towers
+  - title: Pavilia Towers
 ---
 

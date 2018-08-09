@@ -29,6 +29,6 @@ latLng:
     lng: '-79.393336'
 related:
   - title: Richmond Park
-  - title: Pavilia Park
+  - title: Pavilia Park Towns
 ---
 

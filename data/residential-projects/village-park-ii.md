@@ -2,7 +2,7 @@
 title: Village Park II
 enabled: 'Yes'
 dateAdded: 2017-04-01T16:22:57.000Z
-featuredImage: /assets/uploads/village_park_towns-hero.jpg
+featuredImage: /assets/uploads/village_park_2__hero.jpg
 logoImage: /assets/uploads/village-park-townhomes.jpg
 location: Hwy 7 & Village Parkway
 city: Unionville
@@ -32,6 +32,6 @@ latLng:
     lng: '-79.324094'
 related:
   - title: Richmond Park
-  - title: Pavilia Park
+  - title: Pavilia Park Towns
 ---
 

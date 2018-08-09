@@ -1,7 +1,7 @@
 ---
 title: Victoria Townhomes
 enabled: 'Yes'
-dateAdded: 2005-11-01T12:49:46-04:00
+dateAdded: 2005-11-01T16:49:46.000Z
 featuredImage: /assets/uploads/victoria_towns-hero.jpg
 location: 88 Times Avenue
 city: Thornhill
@@ -24,5 +24,7 @@ exteriorGallery:
 latLng:
   - lat: '43.841656'
     lng: '-79.392119'
+related:
+  - title: Pavilia Park Towns
 ---
 

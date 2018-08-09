@@ -26,7 +26,10 @@ description: >-
   exterior, the residence will offer a carefree condominium lifestyle with an
   outstanding selection of suite designs – all energy-efficient to LEED® Gold
   standards. All this in the finest and most prestigious location north of
-  Toronto.
+  Toronto.<br><br>
+
+  <img
+  src="https://timesgroup.adhocstudio.ca/assets/uploads/riverwalk-gold-2018.png">
 exteriorGallery:
   - image: /assets/uploads/riverwalk-ext1.jpg
   - image: /assets/uploads/riverwalk-ext2.jpg
@@ -49,7 +52,7 @@ latLng:
 related:
   - title: Broadway
   - title: Riverview
-  - title: Pavilia Park Towers
-leedAwardImage: /assets/uploads/Leed_candidate.png
+  - title: Pavilia Towers
+leedAwardImage: /assets/uploads/riverwalk-gold-2018.png
 ---
 

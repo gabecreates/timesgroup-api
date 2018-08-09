@@ -27,7 +27,10 @@ description: >-
   Eden Park is poised to become one of the most sought-after condominiums north
   of Toronto. Amenities include indoor swimming pool, fully equipped gym
   facility, a library, a movie theatre room, a games room equipped with pool
-  table and a beautifully-appointed party room.
+  table and a beautifully-appointed party room.<br><br>
+
+  <img
+  src="https://timesgroup.adhocstudio.ca/assets/uploads/leed_gold_2015.png">
 exteriorGallery:
   - image: /assets/uploads/eden_park_ii-ext1.JPG
   - image: /assets/uploads/eden_park_ii-ext2.JPG
@@ -45,7 +48,7 @@ latLng:
 related:
   - title: Broadway
   - title: Riverview
-  - title: Pavilia Park Towers
+  - title: Pavilia Towers
 leedAwardImage: /assets/uploads/leed_gold_2015.png
 ---
 

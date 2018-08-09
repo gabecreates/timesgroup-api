@@ -23,7 +23,10 @@ description: >-
   environmental consciousness for uncompromising quality, new era comfort and
   cutting-edge in energy conservation and efficiency. Specially designed
   amenities are provided in the suites to reduce waste and increase water
-  efficiency.
+  efficiency.<br><br>
+
+  <img
+  src="https://timesgroup.adhocstudio.ca/assets/uploads/leed_gold_2011.png">
 exteriorGallery:
   - image: /assets/uploads/majestic_court-ext1.jpg
   - image: /assets/uploads/majestic_court-ext2.jpg
@@ -41,7 +44,7 @@ latLng:
 related:
   - title: Broadway
   - title: Riverview
-  - title: Pavilia Park Towers
+  - title: Pavilia Towers
 leedAwardImage: /assets/uploads/leed_gold_2011.png
 ---
 

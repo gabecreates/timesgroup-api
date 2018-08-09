@@ -1,7 +1,7 @@
 ---
 tagline: Quality real estate through passion and responsibility
-firstFeaturedProject: Pavilia Park
-secondFeaturedProject: Pavilia Park Towers
+firstFeaturedProject: Pavilia Park Towns
+secondFeaturedProject: Pavilia Towers
 thirdFeaturedProject: Riverview
 greenTagline: We build green
 greenText: >-
@@ -10,6 +10,6 @@ greenText: >-
   a better future.
 firstGreenProject: River Park
 secondGreenProject: Eden Park II
-thirdGreenProject: Eden Park I Highrise
+thirdGreenProject: Eden Park I
 ---
 

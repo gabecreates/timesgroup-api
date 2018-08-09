@@ -23,28 +23,23 @@ pageDesc: >-
   our community.
 carousel:
   - carouselCaption: >-
-      Times Group TDM Building Features
-
       Building TDM Features: Bicycle parking, transit information and more.
       Project specific features below.
+    carouselHeader: Times Group TDM Building Features
     carouselImg: /assets/uploads/tdm-111-1024x580.jpg
   - carouselCaption: >-
-      Public Transit
-
       Maps, schedules and links to VIVA, York Region, Transit, GO Buses &
       Trains, and TTC below.
+    carouselHeader: Public Transit
     carouselImg: /assets/uploads/tdm-091-1024x580.jpg
-  - carouselCaption: |-
-      Cycling Information
-      Find the best nearby trails and cycling tips below.
+  - carouselCaption: Find the best nearby trails and cycling tips below.
+    carouselHeader: Cycling Information
     carouselImg: /assets/uploads/tdm-03-1024x580.jpg
-  - carouselCaption: |-
-      Smart Commute 
-      Make your next trip faster and easier. Find out more below.
+  - carouselCaption: Make your next trip faster and easier. Find out more below.
+    carouselHeader: Smart Commute
     carouselImg: /assets/uploads/tdm-04-1024x580.jpg
-  - carouselCaption: |-
-      Go Active 
-      Get Up and Go! Active lifestyle information below.
+  - carouselCaption: ' Get Up and Go! Active lifestyle information below.'
+    carouselHeader: Go Active
     carouselImg: /assets/uploads/tdm-05-1024x580.jpg
 projectHeader: Times Group TDM/Sustainable Transportation Building Features
 projectSubheader: Towards A Greener Ride
@@ -63,6 +58,7 @@ projectList:
       across Highway #7.
     projectLink: majestic-court-i-ii
     projectName: Majestic Court
+    projectThumb: /assets/uploads/overview-majestic-300x200.jpg
   - projectDesc: >-
       Eden Park I is a LEED® Gold residential project offering residents
       numerous transit options including York Region Transit/VIVA routes and GO
@@ -74,7 +70,7 @@ projectList:
       distance from many exciting shops and restaurants.
     projectLink: eden-park-i-highrise
     projectName: Eden Park I
-    projectThumb: ''
+    projectThumb: /assets/uploads/overview-eden1-hr-300x200.jpg
   - projectDesc: >+
       Eden Park II is a Gold LEED® residential project offering residents
       numerous transit options including York Region Transit/VIVA routes and GO
@@ -87,6 +83,7 @@ projectList:
 
     projectLink: eden-park-II
     projectName: Eden Park II
+    projectThumb: /assets/uploads/overview-eden2-300x200.jpg
   - projectDesc: >-
       River Park is a LEED® Gold residential project offering residents numerous
       transit options including York Region Transit/VIVA routes and GO Train
@@ -102,6 +99,7 @@ projectList:
       and the LCBO.
     projectLink: river-park
     projectName: River Park
+    projectThumb: /assets/uploads/river-park-thumb1-300x200.jpg
   - projectDesc: >-
       River Walk East is a LEED® Gold residential project offering residents
       numerous transit options including York Region Transit/VIVA routes and GO
@@ -116,6 +114,7 @@ projectList:
       Market, Bed Bath and Beyond and the LCBO.
     projectLink: river-walk-east
     projectName: River Walk East
+    projectThumb: /assets/uploads/overview-river-walk-300x200.png
   - projectDesc: >-
       Uptown Market is LEED® retail shopping complex with an eye for all things
       green. The center provides 20 exterior bicycle parking spaces by the Bank
@@ -128,6 +127,7 @@ projectList:
       target=”_blank”>www.uptownmarket.ca</a>.
     projectLink: 'http://uptownmarket.ca'
     projectName: Uptown Market
+    projectThumb: /assets/uploads/overview-comm-uptown-market-300x200.jpg
 transportationTypes:
   - transportationBlocks:
       - articles:
