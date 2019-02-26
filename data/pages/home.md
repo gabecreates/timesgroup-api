@@ -1,8 +1,8 @@
 ---
 tagline: Quality real estate through passion and responsibility
-firstFeaturedProject: Pavilia Park Towns
+firstFeaturedProject: Riverview
 secondFeaturedProject: Pavilia Towers
-thirdFeaturedProject: Riverview
+thirdFeaturedProject: Pavilia Park Towns
 greenTagline: We build green
 greenText: >-
   Building green is an integral part of what quality means in the 21st Century.
