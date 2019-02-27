@@ -1,7 +1,7 @@
 ---
 title: Broadway
 enabled: 'Yes'
-dateAdded: 2020-01-01T17:22:22.000Z
+dateAdded: 2020-01-02T17:22:22.000Z
 registerOnly: 'Yes'
 featuredImage: /assets/uploads/broadway-hero.jpg
 location: Yonge & Eglinton
