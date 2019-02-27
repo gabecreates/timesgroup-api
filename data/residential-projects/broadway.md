@@ -3,7 +3,7 @@ title: Broadway
 enabled: 'Yes'
 dateAdded: 2020-01-02T17:22:22.000Z
 registerOnly: 'Yes'
-featuredImage: /assets/uploads/broadway-hero.jpg
+featuredImage: /assets/uploads/website-broadway-tile.jpg
 location: Yonge & Eglinton
 city: Toronto
 status: Coming Soon
