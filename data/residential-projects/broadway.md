@@ -1,12 +1,12 @@
 ---
 title: Broadway
 enabled: 'Yes'
-dateAdded: 2017-07-01T16:22:22.000Z
+dateAdded: 2020-01-01T17:22:22.000Z
 registerOnly: 'Yes'
 featuredImage: /assets/uploads/broadway-hero.jpg
 location: Yonge & Eglinton
 city: Toronto
-status: Approved - Coming Soon
+status: Coming Soon
 units: 39 Stories
 projectType: High-rise Residential
 latLng:
