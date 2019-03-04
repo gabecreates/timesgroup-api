@@ -46,7 +46,7 @@ latLng:
   - lat: '43.837461'
     lng: '-79.391224'
 related:
-  - title: Broadway
+  - title: 65 Broadway
   - title: Riverview
   - title: Pavilia Towers
 leedAwardImage: /assets/uploads/leed_gold_2015.png

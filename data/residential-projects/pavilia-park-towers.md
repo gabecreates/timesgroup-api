@@ -14,7 +14,7 @@ latLng:
     lng: '-79.394680'
 related:
   - title: Yonge & Davisville Condos
-  - title: Broadway
+  - title: 65 Broadway
   - title: Riverview
 leedAwardImage: /assets/uploads/Leed_candidate.png
 ---

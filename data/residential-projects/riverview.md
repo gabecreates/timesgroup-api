@@ -13,7 +13,7 @@ latLng:
     lng: '-79.329963'
 related:
   - title: Yonge & Davisville Condos
-  - title: Broadway
+  - title: 65 Broadway
   - title: Pavilia Towers
 leedAwardImage: /assets/uploads/riverview-leed-innovation.png
 ---
