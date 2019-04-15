@@ -1,12 +1,12 @@
 ---
 title: Derby Tower
 enabled: 'Yes'
-dateAdded: 2011-10-01T15:12:38-04:00
+dateAdded: 2011-10-01T19:12:38.000Z
 featuredImage: /assets/uploads/derby_tower-hero.jpg
 location: 130 Pond Drive
 city: Thornhill
 status: Completed
-completedDate: '2011'
+completedDate: '2001'
 units: '118'
 projectType: High-rise Residential
 architect: Kirkor Architects + Planners
