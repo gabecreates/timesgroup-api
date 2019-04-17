@@ -11,7 +11,7 @@ collections:
     folder: "data/residential-projects"
     slug: "{{slug}}"
     create: true
-    fields:    
+    fields:
       - {name: title, label: Project Name}
       - {name: enabled, label: Show Project, widget: select, options: [Yes, No], required: false}
       - {name: dateAdded, label: Date Added (sorts project, select today's date), widget: datetime, required: false}
@@ -20,7 +20,7 @@ collections:
       - {name: logoImage, label: Logo, widget: image, required: false}
       - {name: location, label: Location, required: false}
       - {name: city, label: City, required: false}
-      - {name: status, label: Project Status, required: false, widget: select, options: [Coming Soon, Approved - Coming Soon, Construction, Completed]}
+      - {name: status, label: Project Status, required: false, widget: select, options: [Coming Soon, Approved - Coming Soon, Just Launched, Construction, Completed]}
       - {name: completedDate, label: Project Completed Date (if status is completed), required: false}
       - {name: units, label: Number of Units, required: false}
       - {name: projectType, label: Project Type, widget: select, options: [High-rise Residential, Low-rise Residential, Commercial], required: false}
@@ -36,7 +36,7 @@ collections:
       - {name: interiorGallery, label: Interior Images, required: false, widget: list, fields: [{name: image, label: Image, widget: image}, {name: title, label: Title}]}
       - {name: latLng, label: Latitude Longitude, required: false, widget: list, fields: [{name: lat, label: Latitude, widget: number}, {name: lng, label: Longitude, widget: number}]}
       - {name: related, label: Related Projects (title), required: false, widget: list, fields: [{name: title, label: Project Name}]}
-      - {name: leedAwardImage, label: LEED Award Badge, widget: image, required: false}      
+      - {name: leedAwardImage, label: LEED Award Badge, widget: image, required: false}
   - name: commercialProject
     label: Commercial Project
     folder: "data/commercial-projects"
