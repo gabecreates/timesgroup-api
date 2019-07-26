@@ -9,6 +9,9 @@ city: Toronto
 status: Just Launched
 units: 39 Stories
 projectType: High-rise Residential
+exteriorGallery:
+  - image: /assets/uploads/broadway-hero-072019.jpg
+    title: 65 Broadway
 latLng:
   - lat: '43.706931'
     lng: '-79.398163'
