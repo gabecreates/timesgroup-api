@@ -2,7 +2,7 @@
 title: 65 Broadway
 enabled: 'Yes'
 dateAdded: 2020-01-02T17:22:22.000Z
-registerOnly: 'Yes'
+registerOnly: 'No'
 featuredImage: /assets/uploads/broadway-courtyard.jpg
 location: Yonge & Eglinton
 city: Toronto
