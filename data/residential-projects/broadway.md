@@ -9,6 +9,7 @@ city: Toronto
 status: Just Launched
 units: 39 Stories
 projectType: High-rise Residential
+registrationLink: 'http://www.sixtyfivebroadway.com/'
 exteriorGallery:
   - image: /assets/uploads/broadway-hero-072019.jpg
     title: Sixty Five Broadway
