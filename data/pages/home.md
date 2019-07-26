@@ -1,6 +1,6 @@
 ---
 tagline: Quality real estate through passion and responsibility
-firstFeaturedProject: 65 Broadway
+firstFeaturedProject: Sixty Five Broadway
 secondFeaturedProject: Riverview
 thirdFeaturedProject: Pavilia Towers
 greenTagline: We build green
@@ -12,3 +12,4 @@ firstGreenProject: River Park
 secondGreenProject: Eden Park II
 thirdGreenProject: Eden Park I
 ---
+
