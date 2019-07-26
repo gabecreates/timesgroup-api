@@ -13,11 +13,10 @@ exteriorGallery:
   - image: /assets/uploads/broadway-hero-072019.jpg
     title: 65 Broadway
 latLng:
-  - lat: '43.706931'
-    lng: '-79.398163'
+  - lat: '43.709796'
+    lng: '-79.395146'
 related:
   - title: Yonge & Davisville Condos
   - title: Riverview
   - title: Pavilia Towers
 ---
-
