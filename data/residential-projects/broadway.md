@@ -3,10 +3,10 @@ title: 65 Broadway
 enabled: 'Yes'
 dateAdded: 2020-01-02T17:22:22.000Z
 registerOnly: 'Yes'
-featuredImage: /assets/uploads/website-broadway-tile.jpg
+featuredImage: /assets/uploads/broadway-courtyard.jpg
 location: Yonge & Eglinton
 city: Toronto
-status: Coming Soon
+status: Just Launched
 units: 39 Stories
 projectType: High-rise Residential
 latLng:
