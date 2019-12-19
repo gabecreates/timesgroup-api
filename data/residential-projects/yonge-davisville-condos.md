@@ -4,7 +4,7 @@ enabled: 'Yes'
 dateAdded: 2017-09-01T16:20:37.000Z
 registerOnly: 'Yes'
 featuredImage: /assets/uploads/iqvision.ca_1951yonge_cam_03.jpg
-location: Yonge & Davisville
+location: Yonge & Davisville.
 city: Toronto
 status: Coming Soon
 projectType: High-rise Residential
