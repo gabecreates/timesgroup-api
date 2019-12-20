@@ -10,9 +10,9 @@ location: Yonge & Davisville
 city: Toronto
 status: Coming Soon
 projectType: High-rise Residential
-exteriorGallery:
-  - image: /assets/uploads/iqvision.ca_1951yonge_cam_03.jpg
-  - image: /assets/uploads/iqvision.ca_1951yonge_cam_05.jpg
+# exteriorGallery:
+  # - image: /assets/uploads/iqvision.ca_1951yonge_cam_03.jpg
+  # - image: /assets/uploads/iqvision.ca_1951yonge_cam_05.jpg
 latLng:
   - lat: '43.698604'
     lng: '-79.396695'
