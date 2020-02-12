@@ -9,6 +9,7 @@ status: Coming Soon
 projectType: High-rise Residential
 contactEmail: ''
 websiteLink: 'http://5800yonge.com/'
+latLng: []
 related:
   - title: Yonge & Davisville Condos
   - title: Sixty Five Broadway
