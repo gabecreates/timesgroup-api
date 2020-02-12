@@ -7,7 +7,7 @@ location: 5800 Yonge Street
 city: Toronto
 status: Coming Soon
 projectType: High-rise Residential
-contactEmail: info@5800yonge.com
+contactEmail: ''
 websiteLink: 'http://5800yonge.com/'
 related:
   - title: Yonge & Davisville Condos
