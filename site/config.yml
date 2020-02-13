@@ -34,7 +34,7 @@ collections:
       - {name: description, label: Description, widget: text, required: false}
       - {name: exteriorGallery, label: Exterior Images, required: false, widget: list, fields: [{name: image, label: Image, widget: image}, {name: title, label: Title}]}
       - {name: interiorGallery, label: Interior Images, required: false, widget: list, fields: [{name: image, label: Image, widget: image}, {name: title, label: Title}]}
-      - {name: latLng, label: Latitude Longitude, required: false, widget: list, fields: [{name: lat, label: Latitude, widget: number}, {name: lng, label: Longitude, widget: number, valueType: float}]}
+      - {name: latLng, label: Latitude Longitude, required: false, widget: list, fields: [{name: lat, label: Latitude, widget: number, valueType: float}}, {name: lng, label: Longitude, widget: number, valueType: float}]}
       - {name: related, label: Related Projects (title), required: false, widget: list, fields: [{name: title, label: Project Name}]}
       - {name: leedAwardImage, label: LEED Award Badge, widget: image, required: false}
   - name: commercialProject
