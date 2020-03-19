@@ -1,5 +1,5 @@
 ---
-title: Markham<br>Sales Office
+title: Markham Sales Office
 location: 60 South Town Centre Blvd
 city: Markham
 hours:
