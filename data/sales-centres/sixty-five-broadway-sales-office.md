@@ -1,5 +1,5 @@
 ---
-title: Sixty Five Broadway Sales Office
+title: Sixty Five Broadway<br>Sales Office
 location: 2528 Yonge Street
 city: Toronto
 hours:
