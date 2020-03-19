@@ -5,5 +5,5 @@ city: Markham
 hours:
   - hoursItem: By appointment only
 contactPhoneNumber: 905.479.5557
-contactEmail: admin@uptownmarkham.com
+contactEmail: info@uptownmarkham.com
 ---
