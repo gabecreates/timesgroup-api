@@ -14,6 +14,7 @@ post: >
   gifts will have a profound impact.” said Saeid Aghaei, Principal, of Times
   Group.
 
+  <br><br>
 
   Plans also include building on the hospital’s excellence in diagnostic imaging and adding more clinic space so the community can better access wellness services, such as rehabilitation and diabetes education. “We are lucky to have an excellent health-care system and we want to ensure that our community continues to receive equal access to excellent care.” said Hashem Ghadaki, President of Times Group.
 ---
