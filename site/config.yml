@@ -60,6 +60,16 @@ collections:
       - {name: hours, label: Hours, required: false, widget: list, fields: [{name: hoursItem}]}
       - {name: contactPhoneNumber, label: Contact Phone Number}
       - {name: contactEmail, label: Contact Email}
+  - name: blogPosts
+    label: Blog Posts
+    folder: "data/blog-posts"
+    create: true
+    fields:
+      - {name: title, label: Title}
+      - {name: subheader, label: Subheader}
+      - {name: date, label: Date}
+      - {name: featuredImage, label: Featured Image, widget: image, required: false}
+      - {name: post, label: Post, widget: text }
   - name: pages
     label: Pages
     files:
