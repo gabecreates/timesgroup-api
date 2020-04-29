@@ -8,7 +8,7 @@ Metalsmith(__dirname)
     .use( markdown() )
     .use( tojson({
         createIndexes : true,
-        indexPaths : ['residential-projects', 'commercial-projects', 'sales-centres'],
+        indexPaths : ['residential-projects', 'commercial-projects', 'sales-centres', 'blog-posts'],
         onlyOutputIndex : false
     }))
     .build(function( err, files ) {
