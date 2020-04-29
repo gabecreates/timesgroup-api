@@ -69,6 +69,7 @@ collections:
       - {name: subheader, label: Subheader}
       - {name: date, label: Date}
       - {name: featuredImage, label: Featured Image, widget: image, required: false}
+      - {name: imageCaption, label: Image Caption, required: false}
       - {name: post, label: Post, widget: text }
   - name: pages
     label: Pages
