@@ -18,6 +18,7 @@ post: >
   culturally diverse community,” said Chris Trussell, co-founder of Appletree
   Markets.
 
+  <br><br>
 
   In addition to these recurring festivals, to help celebrate the weeklong Jewish festival of Sukkot Times Group has dedicated a portion of the property to a seasonal City Sukkah erected and maintained by Rabbi Shmuly and Mushkie Grossbaum of the <a href="https://www.chabadontheeastside.com/" target="_blank">Chabad Lubavitch on the East Side</a>. The Sukkah has been designed and decorated by renowned artists Ian Leventhal, Jessica Gorlicky, Emanuel Ciobanica, Nicole Neagu and Isaac Winstangel.
 ---
