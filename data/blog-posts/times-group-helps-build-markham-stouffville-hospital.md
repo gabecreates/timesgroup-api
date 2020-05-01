@@ -4,10 +4,9 @@ subheader: Building Healthier Communities in Canada with a $500,000 Donation to
   Markham Stouffville Hospital
 date: September 15, 2008
 featuredImage: /assets/uploads/msh_times_600x551.jpg
-imageCaption: On April 28, 2020 Times Group announced a contribution of $500,000
-  to be split evenly between Daily Bread Food Bank and Second Harvest Food
-  Rescue in connection with the opening of the new Times Group Covid-19 Streets
-  to Homes shelter in Midtown Toronto.
+imageCaption: Pictured above is Hashem Ghadaki, Ali Mesgarzadeh, Mohammad
+  Ghadaki and Saeid Aghaei of Times Group receiving recognition by Mayor Frank
+  Scarpitti at Markham Stouffville Hospital in 2008
 post: >
   Times Group and <a href="https://www.msh.on.ca/" target="_blank">Markham
   Stouffville Hospital</a> are working together to help build a landmark
