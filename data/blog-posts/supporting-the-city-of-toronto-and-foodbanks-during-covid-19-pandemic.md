@@ -10,7 +10,9 @@ post: >
   facilities under the City of Toronto Streets to Homes program. Times Group
   principals Hashem Ghadaki, Saeid Aghaei, Mohammad Ghadaki and Ali Mesgarzadeh
   have pledged to donate the net proceeds from the lease to help support two
-  Toronto area foodbanks, Daily Bread and Second Harvest.
+  Toronto area foodbanks, <a href="http://www.dailybread.ca/"
+  target="_blank">Daily Bread</a> and <a href="http://secondharvest.ca/"
+  target="_blank">Second Harvest</a>.
 
   <br><br>
 
