@@ -4,6 +4,10 @@ subheader: Times Group leases Streets to Homes Facility and pledges $500,000 to
   Toronto Food Banks to battle Covid-19
 date: April 28, 2020
 featuredImage: /assets/uploads/food_banks_times_600x551.jpg
+imageCaption: On April 28, 2020 Times Group announced a contribution of $500,000
+  to be split evenly between Daily Bread Food Bank and Second Harvest Food
+  Rescue in connection with the opening of the new Times Group Covid-19 Streets
+  to Homes shelter in Midtown Toronto.
 post: >
   Times Group, the City of Toronto and the University Health Network have
   partnered to deploy two vacant Times Group buildings as temporary shelter
