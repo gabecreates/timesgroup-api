@@ -5,14 +5,14 @@ subheader: Building Healthier Communities in Canada with a $500,000 Donation to
 date: September 15, 2008
 featuredImage: /assets/uploads/msh_times_600x551.jpg
 post: >
-  Times Group and Markham Stouffville Hospital are working together to help
-  build a landmark expansion to the facilities of MSH. To help support the
-  expansion plans, Times Group has pledged a gift of $500,000 which will help
-  deliver more beds and operating rooms to help serve the growing Markham
-  community. “Health care is a universal cause – it benefits everyone. The best
-  way to give back to the community is to give to our hospitals because these
-  gifts will have a profound impact.” said Saeid Aghaei, Principal, of Times
-  Group.
+  Times Group and <a href="https://www.msh.on.ca/" target="_blank">Markham
+  Stouffville Hospital</a> are working together to help build a landmark
+  expansion to the facilities of MSH. To help support the expansion plans, Times
+  Group has pledged a gift of $500,000 which will help deliver more beds and
+  operating rooms to help serve the growing Markham community. “Health care is a
+  universal cause – it benefits everyone. The best way to give back to the
+  community is to give to our hospitals because these gifts will have a profound
+  impact.” said Saeid Aghaei, Principal, of Times Group.
 
   <br><br>
 
