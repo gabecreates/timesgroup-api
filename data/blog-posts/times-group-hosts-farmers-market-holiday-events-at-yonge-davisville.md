@@ -4,6 +4,8 @@ subheader: Times Group, Daily Apple and Chabad Lubavitch on the East Side Team
   Up to Bring Community Events to a Midtown Parking Lot
 date: August 10, 2017
 featuredImage: /assets/uploads/daily_apple_times_600x551.jpg
+imageCaption: Fall Market Event Flyer for the Midtown Country Fair sponsored by
+  Times Group held at Yonge and Davisville on October 13, 2018.
 post: >
   Times Group and Appletree Markets (<a href="http://www.dailyapple.ca/"
   target="_blank">Daily Apple</a>) have partnered to help bring community events
