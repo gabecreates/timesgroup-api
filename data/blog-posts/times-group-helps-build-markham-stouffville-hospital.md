@@ -6,7 +6,7 @@ date: September 15, 2008
 featuredImage: /assets/uploads/msh_times_600x551.jpg
 imageCaption: Pictured above is Hashem Ghadaki, Ali Mesgarzadeh, Mohammad
   Ghadaki and Saeid Aghaei of Times Group receiving recognition by Mayor Frank
-  Scarpitti at Markham Stouffville Hospital in 2008
+  Scarpitti at Markham Stouffville Hospital in 2008.
 post: >
   Times Group and <a href="https://www.msh.on.ca/" target="_blank">Markham
   Stouffville Hospital</a> are working together to help build a landmark
