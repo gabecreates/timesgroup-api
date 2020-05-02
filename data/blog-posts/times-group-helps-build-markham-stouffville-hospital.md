@@ -3,7 +3,7 @@ title: Times Group Helps Build Markham Stouffville Hospital
 subheader: Building Healthier Communities in Canada with a $500,000 Donation to
   Markham Stouffville Hospital
 date: September 15, 2008
-featuredImage: /assets/uploads/msh_times_600x551.jpg
+featuredImage: /assets/uploads/msh_times_600x551-1-.jpg
 imageCaption: Pictured above is Hashem Ghadaki, Ali Mesgarzadeh, Mohammad
   Ghadaki and Saeid Aghaei of Times Group receiving recognition by Mayor Frank
   Scarpitti at Markham Stouffville Hospital in 2008.
