@@ -4,7 +4,7 @@ subheader: Times Group leases 5800 Yonge as Welcome Centre for Refugees in the
   City of Toronto
 date: October 1, 2018
 featuredImage: /assets/uploads/refugee_centre_times_600x551-1-.jpg
-imageCaption: Ali Mesgarzadeh and Hessam Ghadaki attending the opening of the
+imageCaption: Hessam Ghadaki and Ali Mesgarzadeh attending the opening of the
   Willowdale Welcome Center on November 10, 2019.
 post: >
   As reported by the <a
