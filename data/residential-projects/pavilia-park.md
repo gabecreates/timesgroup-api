@@ -1,11 +1,12 @@
 ---
 title: Pavilia Park Towns
-enabled: Yes
+enabled: true
 dateAdded: 2017-10-01T16:21:05.000Z
 featuredImage: /assets/uploads/pavilia_park-hero.jpg
 location: Hwy 7 & South Park Rd
 city: Thornhill
 status: Completed
+completedDate: "2020"
 projectType: Low-rise Residential
 websiteLink: http://paviliapark.com/
 registrationLink: http://paviliapark.com/
