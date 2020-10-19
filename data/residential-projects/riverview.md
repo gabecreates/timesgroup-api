@@ -15,5 +15,5 @@ related:
   - title: Yonge & Davisville Condos
   - title: 65 Broadway
   - title: Pavilia Towers
-leedAwardImage: /assets/uploads/riverview-awards-2.png
+leedAwardImage: /assets/uploads/riverview-leed-awards-2020.png
 ---
