@@ -39,5 +39,5 @@ related:
   - title: 65 Broadway
   - title: Riverview
   - title: Pavilia Towers
-leedAwardImage: /assets/uploads/Leed_candidate.png
+leedAwardImage: /assets/uploads/leed-2020-gold-tg-riverside.png
 ---
