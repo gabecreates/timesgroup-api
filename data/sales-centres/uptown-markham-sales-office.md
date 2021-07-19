@@ -1,6 +1,6 @@
 ---
 title: Markham Sales Office
-location: 381 Highway 7 East, Thornhill, ON
+location: 381 Highway 7 East, Thornhill
 city: Markham
 hours:
   - hoursItem: By appointment only
