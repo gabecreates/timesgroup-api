@@ -1,7 +1,7 @@
 ---
 title: Markham Sales Office
-location: 381 Highway 7 East, Thornhill
-city: Markham
+location: 381 Hwy 7 East
+city: Thornhill
 hours:
   - hoursItem: By appointment only
 contactPhoneNumber: 905.479.5557
