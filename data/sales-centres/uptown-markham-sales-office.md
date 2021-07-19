@@ -1,6 +1,6 @@
 ---
 title: Markham Sales Office
-location: 60 South Town Centre Blvd
+location: 381 Highway 7 East, Thornhill, ON
 city: Markham
 hours:
   - hoursItem: By appointment only
