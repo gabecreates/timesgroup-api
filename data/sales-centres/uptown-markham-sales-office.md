@@ -1,7 +1,7 @@
 ---
 title: Markham Sales Office
-location: 381 Hwy 7 East
-city: Thornhill
+location: 38 Water Walk Drive
+city: Markham
 hours:
   - hoursItem: By appointment only
 contactPhoneNumber: 905.479.5557
