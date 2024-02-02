@@ -7,8 +7,8 @@ location: Hwy 7 & Birchmount
 city: Markham
 status: Construction
 projectType: High-rise Residential
-websiteLink: https://riverviewcondo.ca/
-registrationLink: ""
+websiteLink: ""
+registrationLink: https://riverviewcondo.ca/
 latLng:
   - lat: "43.855836"
     lng: "-79.329963"
