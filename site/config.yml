@@ -116,6 +116,7 @@ collections:
           - {name: aboutText, label: About Text, widget: text}
           - {name: futureTagline, label: Future Tagline}
           - {name: futureText, label: Future Text, widget: text}
+          - {name: carousel, label: Carousel Images, required: false, widget: list, fields: [{name: carouselHeader, label: Carousel Header, required: false, widget: text}, {name: carouselCaption, label: Carousel Caption, required: false, widget: text}, {name: carouselImg, label: Carousel Image, required: false, widget: image}]}
       - file: "data/pages/sustainable.md"
         name: sustainablePage
         label: Sustainable Page
