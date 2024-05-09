@@ -1,16 +1,17 @@
 ---
 title: Riverside
-enabled: 'Yes'
+enabled: true
 dateAdded: 2017-02-01T17:23:44.000Z
 featuredImage: /assets/uploads/riverside_hero_image.jpg
 logoImage: /assets/uploads/riverside_logo.png
 location: Hwy 7 & Birchmount
 city: Markham
-status: Construction
+status: Completed
+completedDate: "2018"
 projectType: High-rise Residential
 contactPhoneNumber: 905.479.5557
 contactEmail: info@uptownmarkham.com
-websiteLink: 'http://uptownmarkham.com/Riverside/'
+websiteLink: http://uptownmarkham.com/Riverside/
 architect: KIRKOR ARCHITECTS + PLANNERS
 interiorDesigner: Hefele Makowka Design Associates
 landscapeArchitect: SCHOLLEN & COMPANY INC.
@@ -30,15 +31,13 @@ description: >
 
   <br><br>
 
-  <img
-  src="https://timesgroup.adhocstudio.ca/assets/uploads/Leed_candidate.png">
+  <img src="https://timesgroup.adhocstudio.ca/assets/uploads/Leed_candidate.png">
 latLng:
-  - lat: '43.856444'
-    lng: '-79.327796'
+  - lat: "43.856444"
+    lng: "-79.327796"
 related:
   - title: 65 Broadway
   - title: Riverview
   - title: Pavilia Towers
-leedAwardImage: /assets/uploads/Leed_candidate.png
+leedAwardImage: /assets/uploads/leed-2020-gold-tg-riverside.png
 ---
-
