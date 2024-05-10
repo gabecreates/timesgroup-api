@@ -1,6 +1,6 @@
 ---
 title: Sixty Five Broadway<br>Sales Office
-location: 3985 Hwy 7 East Suite 202
+location: 3985 Hwy 7 East, Suite 202
 city: Markham
 hours:
   - hoursItem: By Appointment Only
