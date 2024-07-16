@@ -1,8 +1,8 @@
 ---
 tagline: Quality real estate through passion and responsibility
 firstFeaturedProject: The Chatsworth
-secondFeaturedProject: Riverview
-thirdFeaturedProject: Pavilia Towers
+secondFeaturedProject: Uptown Markham Phase 5
+thirdFeaturedProject: North Leslie Phase 1
 greenTagline: We build green
 greenText: >-
   Building green is an integral part of what quality means in the 21st Century.
