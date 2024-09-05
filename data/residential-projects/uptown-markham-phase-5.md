@@ -10,7 +10,8 @@ city: Markham
 status: Coming Soon
 units: "811"
 projectType: High-rise Residential
-websiteLink: https://liveatpangea.ca/
+websiteLink: ""
+registrationLink: https://liveatpangea.ca/
 architect: Core Architects
 interiorDesigner: Michael London
 landscapeArchitect: Schollen & Company
