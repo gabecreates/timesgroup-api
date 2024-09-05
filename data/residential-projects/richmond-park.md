@@ -3,7 +3,7 @@ title: Skylands Townhomes
 enabled: Yes
 dateAdded: 2017-05-01T16:22:38.000Z
 registerOnly: Yes
-featuredImage: /assets/uploads/skylands_hero.jpg
+featuredImage: /assets/uploads/skylands_hero_v2.jpg
 logoImage: /assets/uploads/skylands_logo_black.png
 location: Leslie & 19th Avenue
 city: Richmond Hill
