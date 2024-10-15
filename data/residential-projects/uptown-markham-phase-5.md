@@ -7,7 +7,7 @@ featuredImage: /assets/uploads/pangea_hero_v3.jpg
 logoImage: /assets/uploads/pangea_logo_600x116_black.png
 location: Verdale Crossing & Rougeside Promenade
 city: Markham
-status: Coming Soon
+status: Just Launched
 units: "811"
 projectType: High-rise Residential
 websiteLink: ""
