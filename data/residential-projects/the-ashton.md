@@ -15,6 +15,6 @@ description: A new purpose-built rental community is coming soon to the corner
   of Glenashton Dr. and Trafalgar Rd., offering modern living in a prime
   location. Stay tuned for more details!
 exteriorGallery:
-  - image: /assets/uploads/mar-03-7650-r-view-3-6000.jpg
+  - image: /assets/uploads/the_ashton.jpg
     title: The Ashton in Oakville
 ---
