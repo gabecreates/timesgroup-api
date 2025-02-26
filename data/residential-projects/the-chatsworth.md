@@ -7,7 +7,7 @@ featuredImage: /assets/uploads/chatsworth_thumbnail_v2.jpg
 logoImage: /assets/uploads/chatsworth_logo_400x97.jpg
 location: 33 Chatsworth Drive
 city: Toronto
-status: Coming Soon
+status: Just Launched
 units: "29"
 projectType: Low-rise Residential
 contactEmail: info@thechatsworth.ca
