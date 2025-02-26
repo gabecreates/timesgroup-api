@@ -7,9 +7,9 @@ featuredImage: /assets/uploads/the_ashton_1691x879.jpg
 logoImage: /assets/uploads/ashton_logo_blue_dkgrey_rgb.jpg
 location: 315 Glenashton Drive
 city: Oakville
-status: null
+status: Coming Soon
 units: "154"
-projectType: null
+projectType: High-rise Residential
 architect: Icke Brochu
 interiorDesigner: Tomas Pearce
 landscapeArchitect: Schollen & Company
