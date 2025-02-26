@@ -2,7 +2,7 @@
 title: The Ashton
 enabled: Yes
 dateAdded: 2025-02-25T21:51:54.582Z
-registerOnly: No
+registerOnly: Yes
 featuredImage: /assets/uploads/the_ashton_1691x879.jpg
 logoImage: /assets/uploads/ashton_logo_blue_dkgrey_rgb.jpg
 location: 315 Glenashton Drive
