@@ -14,8 +14,8 @@ architect: Icke Brochu
 interiorDesigner: Tomas Pearce
 landscapeArchitect: Schollen & Company
 description: A new purpose-built rental community is coming soon to the corner
-  of Glenashton Dr. and Trafalgar Rd., offering modern living in a prime
-  location. Stay tuned for more details!
+  of Glenashton Drive and Trafalgar Road in Oakville, offering modern living in
+  a prime location. Stay tuned for more details!
 exteriorGallery:
   - image: /assets/uploads/the_ashton.jpg
     title: The Ashton in Oakville
