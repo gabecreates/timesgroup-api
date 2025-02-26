@@ -8,6 +8,7 @@ logoImage: /assets/uploads/ashton_logo_blue_dkgrey_rgb.jpg
 location: 315 Glenashton Drive
 city: Oakville
 status: Coming Soon
+units: "154"
 projectType: null
 architect: Icke Brochu
 interiorDesigner: Tomas Pearce
