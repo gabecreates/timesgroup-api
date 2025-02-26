@@ -3,6 +3,7 @@ title: The Ashton
 enabled: Yes
 dateAdded: 2025-02-25T21:51:54.582Z
 registerOnly: No
+featuredImage: /assets/uploads/the_ashton.jpg
 logoImage: /assets/uploads/ashton_logo_blue_dkgrey_rgb.jpg
 location: 315 Glenashton Drive
 city: Oakville
