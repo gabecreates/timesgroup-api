@@ -7,7 +7,7 @@ featuredImage: /assets/uploads/the_ashton_1691x879.jpg
 logoImage: /assets/uploads/ashton_logo_blue_dkgrey_rgb.jpg
 location: 315 Glenashton Drive
 city: Oakville
-status: Coming Soon
+status: null
 units: "154"
 projectType: null
 architect: Icke Brochu
