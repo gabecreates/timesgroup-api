@@ -7,7 +7,7 @@ featuredImage: /assets/uploads/skylands_hero_v3.jpg
 logoImage: /assets/uploads/skylands_logo_black.png
 location: Leslie & 19th Avenue
 city: Richmond Hill
-status: Coming Soon
+status: Just Launched
 units: "119"
 projectType: Low-rise Residential
 registrationLink: https://liveatskylands.ca/
