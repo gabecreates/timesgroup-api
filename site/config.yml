@@ -23,7 +23,7 @@ collections:
       - {name: status, label: Project Status, required: false, widget: select, options: [Coming Soon, Approved - Coming Soon, Just Launched, Construction, Completed]}
       - {name: completedDate, label: Project Completed Date (if status is completed), required: false}
       - {name: units, label: Number of Units, required: false}
-      - {name: projectType, label: Project Type, widget: select, options: [High-rise Residential, Low-rise Residential, Commercial], required: false}
+      - {name: projectType, label: Project Type, widget: select, options: [High-rise Residential, Low-rise Residential, Commercial, Rental], required: false}
       - {name: contactPhoneNumber, label: Contact Phone , required: false}
       - {name: contactEmail, label: Contact Email, required: false}
       - {name: websiteLink, label: Website Link, required: false}
