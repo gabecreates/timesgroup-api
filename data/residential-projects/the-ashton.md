@@ -9,7 +9,7 @@ location: 315 Glenashton Drive
 city: Oakville
 status: Coming Soon
 units: "154"
-projectType: High-rise Residential
+projectType: Rental
 architect: Icke Brochu
 interiorDesigner: Tomas Pearce
 landscapeArchitect: Schollen & Company
